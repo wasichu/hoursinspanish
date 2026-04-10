@@ -1,7 +1,7 @@
 # Hours in Spanish
 
 <p align="center">
-  <img src="static/favicon.ico" width="48" />
+  <img src="static/readme-logo.png" width="48" />
 </p>
 
 A blog tracking my Spanish acquisition through hours of comprehensible input.
