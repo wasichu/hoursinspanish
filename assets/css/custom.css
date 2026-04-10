@@ -1,0 +1,115 @@
+.hero-logo {
+  width: min(320px, 70vw);
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid var(--glass-border);
+  box-shadow:
+    0 0 0 10px var(--accent-light-purple-rgba-01),
+    0 18px 40px rgba(0, 0, 0, 0.25);
+}
+
+.about-page-avatar {
+  box-shadow:
+    0 0 0 6px var(--accent-light-purple-rgba-01),
+    0 12px 28px rgba(0, 0, 0, 0.18);
+}
+
+.about-content-full,
+.post-content-main,
+.post-description-main,
+.list-description {
+  font-family: var(--font-body);
+  letter-spacing: 0;
+}
+
+.about-content-full,
+.post-content-main {
+  font-size: 1.06rem;
+  line-height: 1.75;
+}
+
+.about-content-full h2,
+.about-content-full h3,
+.post-content-main h2,
+.post-content-main h3,
+.post-content-main h4 {
+  font-family: var(--font-heading);
+  letter-spacing: -0.01em;
+}
+
+.post-description-main,
+.list-description {
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.about-content-full ul,
+.about-content-full ol {
+  margin: var(--spacing-lg) 0;
+  padding-left: 1.4em;
+}
+
+.about-content-full li {
+  padding-left: 0.35em;
+  margin-bottom: var(--spacing-sm);
+}
+
+.about-content-full li::marker {
+  color: var(--accent-primary);
+  font-size: 0.95em;
+}
+
+.about-content-full ul li::marker {
+  content: "• ";
+}
+
+.about-content-full ol li::marker {
+  font-weight: 700;
+}
+
+.about-content-full p + ul,
+.about-content-full p + ol,
+.about-content-full hr + ul,
+.about-content-full hr + ol {
+  margin-top: var(--spacing-md);
+}
+
+.about-content-full ul ul,
+.about-content-full ul ol,
+.about-content-full ol ul,
+.about-content-full ol ol {
+  margin: var(--spacing-sm) 0;
+}
+
+.about-content-full li > p {
+  margin-bottom: 0;
+}
+
+.post-content-main ul,
+.post-content-main ol {
+  padding-left: 1.35em;
+}
+
+.post-content-main li {
+  padding-left: 0.3em;
+}
+
+@media (max-width: 768px) {
+  .hero-logo {
+    width: min(240px, 72vw);
+  }
+
+  .about-content-full,
+  .post-content-main {
+    font-size: 1rem;
+    line-height: 1.68;
+  }
+
+  .about-content-full ul,
+  .about-content-full ol,
+  .post-content-main ul,
+  .post-content-main ol {
+    padding-left: 1.2em;
+  }
+}

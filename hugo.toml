@@ -1,0 +1,45 @@
+baseURL = 'http://localhost:1313/'
+locale = 'en-us'
+title = 'Hours in Spanish'
+theme = "mana"
+
+enableRobotsTXT = true
+
+[pagination]
+  pagerSize = 10
+
+[taxonomies]
+  tag = "tags"
+  series = "series"
+
+[params]
+  description = "A running log of acquiring Spanish through comprehensible input: what improves, what stays confusing, and how it actually feels over time."
+
+  [params.avatar.about]
+    url = "/img/avatar-cartoon.png"
+
+[menu]
+	[[menu.main]]
+		name = "Home"
+		url = "/"
+		weight = 1
+
+	[[menu.main]]
+		name = "About"
+		url = "/about/"
+		weight = 2
+
+	[[menu.main]]
+		name = "Hours"
+		url = "/hours/"
+		weight = 3
+
+	[[menu.main]]
+		name = "Compartir"
+		url = "/compartir/"
+		weight = 4
+
+	[[menu.main]]
+		name = "Tags"
+		url = "/tags/"
+		weight = 5
