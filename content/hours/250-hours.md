@@ -42,12 +42,12 @@ One of the biggest shifts is not exactly that Spanish suddenly feels clear. It f
 
 ## What’s Still Hard
 
-- Vocabulary is still a major limitation. I can often get the gist, but there are plenty of moments where a missing word keeps me from fully landing the meaning of a sentence or a joke.
+- At ~235 hours, after a couple [Pablo](https://app.dreaming.com/spanish/watch?id=5e4d1237aac87f3820954d15) [videos](https://app.dreaming.com/spanish/watch?id=5e4d1237aac87f3820954d15) on [this classic Spanish TV series](https://en.wikipedia.org/wiki/Verano_azul) from the 80s, I tried watching *Verano Azul*[^1], and it was mostly beyond me. I could maybe follow around 40 percent, but that wasn’t enough to really understand what was happening or catch the humor. It felt like I was always just behind the conversation. That said, the show itself was compelling enough that I watched a full episode anyway. I plan to come back to it more seriously around 500 hours.
+- Numbers are still a weak point. Single and double digit numbers come through easily, but dates and larger numbers still feel slow. I often need a moment to translate them before they make sense, which interrupts comprehension more than I would like.
+- Vocabulary is still a major limitation. I can often get the gist, but there are plenty of moments where a missing word keeps me from fully landing the meaning of a sentence or a joke. In those cases, I tend to rewind the video a bit and see if I can't catch the meaning better with a repeated listen. Sometimes that works, but not always. In those cases I either look the word up or move on and trust that I'll come across it again in the future.
 - Some common verbs still feel slippery, especially *poder* and *deber*. At one point they felt straightforward, but now I notice more nuance and overlap in how they are used, which oddly makes them feel less solid.
-- Comedy is still hard for exactly that reason. A native Spanish speaking friend sent me a comedy clip recently, and although I could follow parts of it, I missed enough vocabulary that the punchlines did not fully land in the moment.
-- There are still days where comprehension feels inconsistent. Some days I feel like I am understanding a lot, and other days it feels more fragile.
-
-I do not think this is necessarily a regression. It feels more like increased resolution. Things that once looked simple now look more nuanced.
+- Comedy is still hard for exactly that reason. A native Spanish speaking friend sent me [a YouTube short](https://www.youtube.com/shorts/fEQBbLjxfwk) recently, and although I could follow parts of it, I missed enough vocabulary that the punchlines did not fully land in the moment.
+- Overall comprehension is still inconsistent. Some days I feel like I am understanding a lot, and other days it feels more fragile. This does not seem like regression so much as increased resolution. Things that once looked simple now reveal more nuance. For example, a common word like *ya* does a lot of work, and I am still expanding my understanding of it across different situations.
 
 ---
 
@@ -73,3 +73,5 @@ I do not think this is necessarily a regression. It feels more like increased re
 At 250 hours, progress does not really feel like learning new things. It feels more like becoming more comfortable with partial understanding, and more able to trust that the missing pieces will come with time.
 
 The signal is coming through more clearly now. It just still fades in and out.
+
+[^1]: Verano Azul full episodes (Dailymotion): https://www.dailymotion.com/playlist/xa0new. If you love nostalgic 80s TV, I highly recommend looking at [the other playlists](https://www.dailymotion.com/user/aquellas_maravillosas_series/playlists) from the Dailymotion channel that posted Verano Azul.
