@@ -9,7 +9,7 @@ post_kind: "compartir"
 
 As I was nearing 200 hours of comprehensible input, I decided to try [crosstalk][ct] with [ChatGPT’s voice mode][cgvm].
 
-Naturally, given how much he advocates for crosstalk, the idea came from one of [Pablo’s videos][pablo-tech].
+Naturally, given how much he [recommends it](ytct), the idea came from one of [Pablo’s videos][pablo-tech].
 
 I plan to keep doing it, and I’m sharing the prompt I use in case it is useful to someone else who wants to try this[^1].
 
@@ -62,6 +62,7 @@ GOAL:
 
 [ct]: https://www.dreaming.com/blog-posts/crosstalk
 [cgvm]: https://chatgpt.com/features/voice/
+[ytct]: https://www.youtube.com/watch?v=SMhzHnP5Q-Q
 [pablo-tech]: https://app.dreaming.com/spanish/watch?id=6230149b52f4021808475809
 [^1]: I start a new chat each time and paste in this prompt otherwise I've found that the LLM tends to get into a rut giving simplistic, abbreviated answers.
 [^2]: ChatGPT has two voice modes: advanced and regular. Regular is unlimited and seemingly just as good for this task. If the app settings, you can switch to always use regular since it defaults to advanced.
