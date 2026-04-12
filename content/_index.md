@@ -9,7 +9,7 @@ Follow along as I put in more and more hours in Spanish.
 ## Start Here
 
 - ⏱️ [Introduction]({{< ref "/hours/intro.md" >}})
-- 📍 [200 Hours]({{< ref "/hours/200-hours.md" >}})
+- 📍 [200 Hours]({{< ref "/hours/200-hours.md" >}}) (first real progress update)
 
 ---
 
