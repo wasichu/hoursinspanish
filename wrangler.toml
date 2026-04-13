@@ -1,5 +1,6 @@
 name = "hoursinspanish"
 compatibility_date = "2026-04-13"
+workers_dev = false
 
 [assets]
 directory = "public"
