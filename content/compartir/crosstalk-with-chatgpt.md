@@ -9,7 +9,7 @@ post_kind: "compartir"
 
 As I was nearing 200 hours of comprehensible input, I decided to try [crosstalk][ct] with [ChatGPT’s voice mode][cgvm].
 
-Naturally, given how much he [recommends it](ytct), the idea came from one of [Pablo’s videos][pablo-tech].
+Naturally, given how much he [recommends it][ytct], the idea came from one of [Pablo’s videos][pablo-tech].
 
 I plan to keep doing it, and I’m sharing the prompt I use in case it is useful to someone else who wants to try this[^1].
 
