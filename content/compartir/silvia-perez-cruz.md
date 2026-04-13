@@ -3,7 +3,7 @@ title: 'Silvia Pérez Cruz'
 date: '2026-04-10T12:09:36-05:00'
 draft: false
 tags: ["music", "poetry", "flamenco"]
-summary: "Songs from the great Spanish singer Silvia Pérez Cruz"
+summary: "A couple beautiful songs from the Spanish singer Silvia Pérez Cruz"
 post_kind: "compartir"
 ---
 
