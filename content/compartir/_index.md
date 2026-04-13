@@ -1,4 +1,4 @@
 +++
 title = "Compartir"
-summary = "Short reflections and experiments with Spanish, less structured than the hours log."
+summary = "Reflections, resources, and experiments from acquiring Spanish."
 +++
