@@ -5,7 +5,7 @@
 </p>
 
 
-A blog tracking my Spanish acquisition through hours of comprehensible input.
+A [blog][ba] tracking my Spanish acquisition through hours of comprehensible input.
 
 Each post documents what’s improving, what’s still difficult, and how comprehension evolves over time.
 
@@ -25,8 +25,10 @@ Then open http://localhost:1313
 ## Structure
 
 - `content/hours/` → hour-based progress logs  
-- `content/compartir/` → shorter reflections and experiments  
+- `content/compartir/` → shared reflections, ideas, media and experiments  
 
 ## Status
 
 Active project. Ongoing updates as hours accumulate.
+
+[ba]: https://slowinput.org
