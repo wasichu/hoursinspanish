@@ -4,6 +4,7 @@ title = 'Hours in Spanish'
 theme = "mana"
 
 enableRobotsTXT = true
+cleanDestinationDir = true
 
 [markup]
   [markup.goldmark]
