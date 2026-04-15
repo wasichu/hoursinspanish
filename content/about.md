@@ -10,7 +10,7 @@ This is a record of my Spanish acquisition through comprehensible input. I start
 
 If it ends up being useful to someone else navigating the same process, that’s a bonus.
 
-If you're new here, start with [the intro post]({{< ref "/hours/intro.md" >}}).
+If you're new here, start with [the intro post]({{< relref "/hours/intro.md" >}}).
 
 ---
 
