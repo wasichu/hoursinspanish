@@ -31,7 +31,7 @@ Then open http://localhost:1313
 
 Active project. Ongoing updates as hours accumulate.
 
-[ba]: https://slowinput.org
+[ba]: https://hoursinspanish.com
 [h]: https://gohugo.io/
 [m]: https://themes.gohugo.io/themes/hugo-mana-theme/
 [cfp]: https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/#deploy-with-cloudflare-pages
