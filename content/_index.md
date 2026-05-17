@@ -15,7 +15,7 @@ Follow along as I put in more and more hours in Spanish.
 
 ## What You'll Find
 
-- **Hours posts** — progress updates every ~50 hours  
-- **Compartir posts** — things I’ve found interesting along the way  
+- [**Hours posts**]({{< relref "/hours/" >}}) — progress updates every ~50 hours
+- [**Compartir posts**]({{< relref "/compartir/" >}}) — things I’ve found interesting along the way
 
 ---

@@ -19,7 +19,7 @@ cleanDestinationDir = true
   series = "series"
 
 [params]
-  description = "A running log of acquiring Spanish through comprehensible input: what improves, what stays confusing, and how it actually feels over time."
+  description = "A running log of acquiring Spanish through comprehensible input: what improves, what needs improvement, and how it actually feels over time."
 
   [params.avatar.about]
     url = "/img/avatar-cartoon.png"
