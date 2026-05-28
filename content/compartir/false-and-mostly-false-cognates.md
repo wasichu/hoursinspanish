@@ -7,7 +7,7 @@ summary: "Ten Spanish words that felt familiar just long enough to mislead me."
 post_kind: "compartir"
 ---
 
-One reason I like [false cognates][^defn] is that they remind me I cannot simply lean on English and expect Spanish to fall into place.
+One reason I like false cognates[^defn] and have been collecting them is that they remind me I cannot simply lean on English and expect Spanish to fall into place.
 
 Sometimes knowing English helps. There are plenty of Spanish words where the resemblance gives me a useful foothold. But these words are different. They are places where the relationship between English and Spanish becomes a trap. The similarity does not clarify the meaning. It interferes with it.
 
