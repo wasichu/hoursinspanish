@@ -21,6 +21,19 @@ cleanDestinationDir = true
 [params]
   description = "A running log of acquiring Spanish through comprehensible input: what improves, what needs improvement, and how it actually feels over time."
 
+  [params.comments.cusdis]
+    enabled = true
+    host = "https://cusdis.com"
+    appId = "65d0480a-0912-4ef4-9b83-1b7ab2ff6392"
+
+  [params.support]
+    url = "https://buymeacoffee.com/iamwasichux"
+    label = "Support"
+
+  [params.source]
+    contentBaseURL = "https://github.com/wasichu/hoursinspanish/blob/main/content"
+    label = "GitHub"
+
   [params.avatar.about]
     url = "/img/avatar-cartoon.png"
 

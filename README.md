@@ -13,6 +13,8 @@ Each post documents what’s improving, what’s still difficult, and how compre
 
 - [Hugo][h] (static site generator) with the [mana][m] theme
 - Deployed via [Cloudflare Pages][cfp]
+- Reader comments powered by [Cusdis][cusdis]
+- Quiet footer links for support and per-page GitHub source
 
 ## Local development
 
@@ -26,6 +28,9 @@ Then open http://localhost:1313
 
 - `content/hours/` → hour-based progress logs  
 - `content/compartir/` → shared reflections, ideas, media and experiments  
+- `layouts/partials/comments.html` → Cusdis comments embed
+- `layouts/partials/footer.html` → footer support and source links
+- `assets/css/custom.css` → site-specific theme overrides
 
 ## Status
 
@@ -35,3 +40,4 @@ Active project. Ongoing updates as hours accumulate.
 [h]: https://gohugo.io/
 [m]: https://themes.gohugo.io/themes/hugo-mana-theme/
 [cfp]: https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/#deploy-with-cloudflare-pages
+[cusdis]: https://cusdis.com/
