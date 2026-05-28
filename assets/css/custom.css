@@ -142,6 +142,21 @@
   letter-spacing: 0.01em;
 }
 
+.comments-section {
+  margin-top: 2rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border-color);
+}
+
+.comments-title {
+  margin-bottom: 1rem;
+  font-family: var(--font-heading);
+  font-size: 1.25rem;
+  font-weight: 600;
+  letter-spacing: 0;
+  color: var(--text-primary);
+}
+
 @media (max-width: 768px) {
   .hero-logo {
     width: min(240px, 72vw);

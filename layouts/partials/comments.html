@@ -1,0 +1,15 @@
+{{ with site.Params.comments.cusdis }}
+  {{ if and .enabled .appId }}
+    <section class="comments-section" aria-labelledby="comments-title">
+      <h2 id="comments-title" class="comments-title">Comments</h2>
+      <div
+        id="cusdis_thread"
+        data-host="{{ .host | default "https://cusdis.com" }}"
+        data-app-id="{{ .appId }}"
+        data-page-id="{{ $.RelPermalink }}"
+        data-page-url="{{ $.Permalink }}"
+        data-page-title="{{ $.Title }}"></div>
+      <script async defer src="{{ .host | default "https://cusdis.com" }}/js/cusdis.es.js"></script>
+    </section>
+  {{ end }}
+{{ end }}
