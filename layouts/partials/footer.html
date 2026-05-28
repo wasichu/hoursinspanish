@@ -12,7 +12,7 @@
       </span>
       {{ with site.Params.support }}
         {{ if .url }}
-          <span class="footer-separator" aria-hidden="true">○</span>
+          <span class="footer-separator" aria-hidden="true">·</span>
           <a class="footer-link footer-link-icon" href="{{ .url }}" target="_blank" rel="noopener noreferrer">
             <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
               <path
@@ -27,7 +27,7 @@
       {{ end }}
       {{ with site.Params.source }}
         {{ if and .contentBaseURL $.File }}
-          <span class="footer-separator" aria-hidden="true">○</span>
+          <span class="footer-separator" aria-hidden="true">·</span>
           <a class="footer-link footer-link-icon" href="{{ printf "%s/%s" (strings.TrimSuffix "/" .contentBaseURL) $.File.Path }}" target="_blank" rel="noopener noreferrer">
             <svg fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
               <path
