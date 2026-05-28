@@ -3,11 +3,11 @@ title: 'False Cognates and False Friends'
 date: '2026-05-27T18:40:09-05:00'
 draft: false
 tags: ["cognates", "vocabulary"]
-summary: "Eight Spanish words that felt familiar just long enough to mislead me."
+summary: "Ten Spanish words that felt familiar just long enough to mislead me."
 post_kind: "compartir"
 ---
 
-One reason I like false cognates is that they remind me I cannot simply lean on English and expect Spanish to fall into place.
+One reason I like [false cognates][^defn] is that they remind me I cannot simply lean on English and expect Spanish to fall into place.
 
 Sometimes knowing English helps. There are plenty of Spanish words where the resemblance gives me a useful foothold. But these words are different. They are places where the relationship between English and Spanish becomes a trap. The similarity does not clarify the meaning. It interferes with it.
 
@@ -77,6 +77,37 @@ To pretend or fake.
 
 Some words are confusing because they look like English. This one is confusing (and amusing) because of its unfortunate connotations.
 
+## molestar
+
+### What I thought it meant
+
+To molest, in the modern English [sense][mw-molest].
+
+### What it actually means
+
+To bother, annoy, or inconvenience.
+
+- Perdón por molestarte.
+- ¿Te molesta si abro la ventana?
+
+This one is jarring because the English word is so severe, while the Spanish word is completely normal and everyday. Someone saying *perdón por molestarte* is not confessing to a felony. They are just saying sorry for bothering you.
+The English and Spanish word share the same root. The obsolete second definition in English matches the Spanish one, but the words have diverged sharply at this point and the current English usage makes them fake friends.
+
+## casualidad
+
+### What I thought it meant
+
+Something casual or informal, or possibly a casualty.
+
+### What it actually means
+
+A coincidence or chance.
+
+- ¡Qué casualidad!
+- Fue una casualidad.
+
+This one sent me in two wrong directions at once. I expected either something relaxed and informal, or something grim involving casualties. Spanish was just saying that something happened by coincidence.
+
 ## dependiente
 
 ### What I thought it meant
@@ -140,3 +171,6 @@ This one feels close enough to English that my brain almost understands it, but 
 That is what I like about these words. They are funny, but they are also a salient reminder to avoid assuming too much.
 
 They remind me that Spanish is not English with different endings. It is its own language, with its own habits, associations, and emotional weight. Sometimes English gives me a bridge into Spanish. Other times, the similarity itself is what gets me into trouble.
+
+[mw-molest]: https://www.merriam-webster.com/dictionary/molest
+[^defn]: While linguists technically define false cognates as words with similar forms but different origins (like English much and Spanish mucho) and false friends as related words whose meanings have diverged (like English embarrassed and Spanish embarazada), the terms are commonly used interchangeably.
