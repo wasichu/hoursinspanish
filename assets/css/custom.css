@@ -160,9 +160,10 @@
 #cusdis_thread {
   min-height: 360px;
   padding: 1rem;
-  background-color: #ffffff;
+  background-color: rgba(248, 250, 252, 0.96);
   border: 1px solid var(--border-color);
   border-radius: 0.5rem;
+  box-shadow: var(--shadow-sm);
 }
 
 #cusdis_thread iframe {
@@ -170,6 +171,17 @@
   min-height: 360px;
   color-scheme: light;
   background-color: transparent;
+}
+
+[data-theme="dark"] #cusdis_thread {
+  background-color: rgba(15, 23, 42, 0.72);
+  border-color: rgba(219, 171, 255, 0.16);
+  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.18);
+}
+
+[data-theme="dark"] #cusdis_thread iframe {
+  filter: brightness(0.94) saturate(0.92);
+  border-radius: 0.35rem;
 }
 
 @media (max-width: 768px) {

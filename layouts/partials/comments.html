@@ -11,6 +11,44 @@
         data-page-title="{{ $.Title }}"
         data-theme="light"></div>
       <script async defer src="{{ .host | default "https://cusdis.com" }}/js/cusdis.es.js"></script>
+      <script>
+        (function () {
+          function styleCusdisFrame() {
+            var thread = document.getElementById("cusdis_thread");
+            var frame = thread && thread.querySelector("iframe");
+            var frameDoc = frame && (frame.contentDocument || frame.contentWindow.document);
+
+            if (!frameDoc || frameDoc.getElementById("hours-cusdis-theme")) {
+              return;
+            }
+
+            var style = frameDoc.createElement("style");
+            style.id = "hours-cusdis-theme";
+            style.textContent = [
+              "body { background: transparent !important; color: #f8fafc !important; }",
+              "label, p, span, div { color: #e2e8f0 !important; }",
+              "input, textarea { background: rgba(2, 6, 23, 0.42) !important; border-color: rgba(219, 171, 255, 0.42) !important; color: #f8fafc !important; }",
+              "input::placeholder, textarea::placeholder { color: #cbd5e1 !important; opacity: 0.85 !important; }",
+              "button { background: rgba(219, 171, 255, 0.14) !important; border-color: rgba(219, 171, 255, 0.38) !important; color: #f8fafc !important; }",
+              "a { color: #dbabff !important; }",
+            ].join("\n");
+            frameDoc.head.appendChild(style);
+          }
+
+          function syncCusdisFrameStyle() {
+            if (document.documentElement.getAttribute("data-theme") === "dark") {
+              setTimeout(styleCusdisFrame, 300);
+              setTimeout(styleCusdisFrame, 1000);
+            }
+          }
+
+          window.addEventListener("load", syncCusdisFrameStyle);
+          new MutationObserver(syncCusdisFrameStyle).observe(document.documentElement, {
+            attributes: true,
+            attributeFilter: ["data-theme"],
+          });
+        })();
+      </script>
     </section>
   {{ end }}
 {{ end }}
