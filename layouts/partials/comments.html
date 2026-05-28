@@ -8,7 +8,8 @@
         data-app-id="{{ .appId }}"
         data-page-id="{{ $.RelPermalink }}"
         data-page-url="{{ $.Permalink }}"
-        data-page-title="{{ $.Title }}"></div>
+        data-page-title="{{ $.Title }}"
+        data-theme="light"></div>
       <script async defer src="{{ .host | default "https://cusdis.com" }}/js/cusdis.es.js"></script>
     </section>
   {{ end }}

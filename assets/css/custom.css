@@ -157,6 +157,21 @@
   color: var(--text-primary);
 }
 
+#cusdis_thread {
+  min-height: 360px;
+  padding: 1rem;
+  background-color: #ffffff;
+  border: 1px solid var(--border-color);
+  border-radius: 0.5rem;
+}
+
+#cusdis_thread iframe {
+  display: block;
+  min-height: 360px;
+  color-scheme: light;
+  background-color: transparent;
+}
+
 @media (max-width: 768px) {
   .hero-logo {
     width: min(240px, 72vw);
