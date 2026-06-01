@@ -24,10 +24,22 @@ Run:
 
 Then open http://localhost:1313
 
+## Git hooks
+
+This repo uses a versioned pre-commit hook in `scripts/git-hooks/`.
+Configure Git to use it:
+
+    git config core.hooksPath scripts/git-hooks
+
+The current hook runs an Elixir script that prevents committing staged
+`content/hours/*.md` posts while they still have `draft = true`.
+
 ## Structure
 
 - `content/hours/` → hour-based progress logs  
 - `content/compartir/` → shared reflections, ideas, media and experiments  
+- `scripts/check_hours_drafts.exs` → pre-commit draft check for hours posts
+- `scripts/git-hooks/pre-commit` → versioned Git pre-commit hook
 - `layouts/partials/comments.html` → Cusdis comments embed
 - `layouts/partials/footer.html` → footer support and source links
 - `assets/css/custom.css` → site-specific theme overrides
