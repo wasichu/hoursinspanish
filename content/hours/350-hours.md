@@ -1,7 +1,7 @@
 +++
 title = "350 Hours"
 date = "2026-05-20T10:21:19-05:00"
-draft = true
+draft = false
 
 tags = ["hours","reading","pasapalbra","immersion"]
 series = ["hours-log"]
