@@ -12,12 +12,10 @@ summary = ""
 hours = {{ $hours }}
 +++
 
-At around {{ $hours }} hours of input, I wanted to record a quick update on progress.
-
-I’ll keep these posts simple. The goal is to answer two questions:
-
-- What’s getting better?
-- What’s still difficult?
+<div style="text-align: center;">
+  <img src="/img/{{ $hours }}-hours.png" alt="{{ $hours }} hours in Dreaming Spanish" width="350">
+  <p><em>Proof</em></p>
+</div>
 
 ---
 
@@ -47,7 +45,7 @@ I’ll keep these posts simple. The goal is to answer two questions:
 
 ---
 
-## Notable Moments (optional)
+## Notable Moments
 
 -
 
