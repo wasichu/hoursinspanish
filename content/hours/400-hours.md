@@ -23,7 +23,7 @@ hours = 400
 * Hours: 400
 * Main input: Dreaming Spanish
 * Daily input: ~90 minutes
-* Additional input: [Español con Juan][ecj], [My Spanish Flow][msf], graded readers
+* Additional input: [Español con Juan][ecj], [My Spanish Flow][msf], graded readers (working on [these][gr-a21] [two][gr-a22] A2 level readers right now)
 * Current feeling: less easily thrown off by difficult content, more able to stay engaged despite imperfect comprehension
 * Context: final update before my trip to Spain
 
@@ -79,7 +79,7 @@ I have also started watching videos from [My Spanish Flow][msf], which uses a si
 
 Reading continues to be part of my routine. I finished [another Olly Richards graded reader][or-il] and realized that his stories are probably not for me. I find them a bit too intentionally quirky. The books by Juan Fernández fit my tastes much better because they feel more natural and engaging.
 
-At this point, A1 readers seem too easy. A2 and B1 readers feel like the sweet spot for me right now.
+At this point, [A1 readers][gr-a1] seem too easy. A2 and B1 readers feel like the sweet spot for me right now.
 
 I also continue trying to avoid subtitles when possible. One thing I have noticed is that subtitles encourage me to read ahead. If I encounter an unfamiliar word before hearing it, I become distracted by it and stop listening naturally. Listening without subtitles feels more immersive and allows meaning to emerge more naturally from context. Plus real time doesn't come with subtitles so I try to ride without training wheels as much as possible.
 
@@ -127,3 +127,6 @@ But compared to where I started, I am increasingly able to trust the process and
 [ds-aggzs]: https://app.dreaming.com/spanish/watch?id=66c339fe84d13c8b34eb404f
 [ds-pw]: https://app.dreaming.com/spanish/watch?id=6a07091d4a6295f32ed34e7b
 [ds-pr]: https://app.dreaming.com/spanish/watch?id=6a1d7fc24a6295f32ed34f35
+[gr-a21]: https://www.amazon.com/dp/B0FK3SRL4W
+[gr-a22]: https://www.amazon.com/dp/B07H3TTCZY
+[gr-a1]: https://www.amazon.com/dp/B078WY9Z5H
