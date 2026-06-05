@@ -23,10 +23,10 @@
       <div class="language-switcher-dropdown" aria-hidden="true">
         <ul class="language-switcher-list" role="listbox">
           {{ range $translations }}
-            {{ if ne .Language.Name $.Language.Name }}
+            {{ if ne .Lang $.Lang }}
               <li role="option">
-                <a href="{{ .RelPermalink }}" class="language-switcher-link" hreflang="{{ .Language.Locale }}">
-                  {{ .Language.Label }}
+                <a href="{{ .RelPermalink }}" class="language-switcher-link" hreflang="{{ .Lang }}">
+                  {{ .Language.LanguageName }}
                 </a>
               </li>
             {{ end }}
