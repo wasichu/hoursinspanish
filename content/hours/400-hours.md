@@ -55,7 +55,7 @@ One particularly strange moment happened right before reaching 400 hours. I was 
 
 Progress remains extremely uneven.
 
-I can understand one video effortlessly and struggle badly with another that has a similar difficulty rating. For example, I watched [an advanced Dreaming Spanish discussion about AI][ds-ai] and could not make it past five minutes. Shortly afterward, I watched an intermediate video with Agustina and Gustavo at a McDonald's shaped like an airplane in New Zealand and found it almost perfectly comprehensible.
+I can understand one video effortlessly and struggle badly with another that has a similar difficulty rating. For example, I watched [an advanced Dreaming Spanish discussion about AI][ds-ai] and could not make it past five minutes. Shortly afterward, I watched [an intermediate video][ds-agm] with Agustina and Gustavo at a McDonald's shaped like an airplane in New Zealand and found it almost perfectly comprehensible.
 
 I also watched two [intermediate][ds-mkp1] [videos][ds-mkp2] where Michelle interviewed a ten-year-old Mexican boy and struggled considerably despite it being excellent content. Topic familiarity, speaking style, accent, age, and background knowledge all seem to matter tremendously.
 
@@ -130,3 +130,4 @@ But compared to where I started, I am increasingly able to trust the process and
 [gr-a21]: https://www.amazon.com/dp/B0FK3SRL4W
 [gr-a22]: https://www.amazon.com/dp/B07H3TTCZY
 [gr-a1]: https://www.amazon.com/dp/B078WY9Z5H
+[ds-agm]: https://app.dreaming.com/spanish/watch?id=6a0d69a24a6295f32ed34e9e
