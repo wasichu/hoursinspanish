@@ -88,6 +88,14 @@ Series provide something I hadn't fully appreciated before: stability. Once I fi
 
 In a strange way, the discovery wasn't that series are useful. The discovery was that I don't need every piece of content to push my limits.
 
+### Some Memorable Series
+
+On the off chance this is useful to someone at some point, some of my favorite series for the last 50 hours:
+
+- [Rude Reviews][ds-srr] with Agustina where she critiques the interior design choices of celebrities. Not something I would normally seek out but her presentations are excellent. Hearing her talk animatedly about terrible couches and lamps is a very memorable way to consume top-notch intermediate content
+- [Explore Central Asia][ds-seca] with Agustina and her father Gustavo is incredibly well produced and researched. This is not a region of the world I know much about or would've thought to explore but the content is engaging, both in general and from a language learning perspective. Plus, anything with Gustavo is must watch for me. I similarly recommend the hotel reviews Agustina does with her dad about the places they stayed in during their trips throughout central Asia
+- [Explore Sevilla][ds-ses] with Andrés where he explores different places in Sevilla and even interviews some of the locals (in a bar, in a university, etc.). I love the accents there and find Andrés' content to be of a consistently high quality, both humorous and thought provoking. After seeing Sevilla in these videos, it's definitely on my list of places to visit in the future if fate allows
+
 ### Reading Is Becoming More Important
 
 The other major development was reading.
@@ -125,6 +133,11 @@ Reading also became more concrete during this stretch.
 After learning more about [research on extensive reading][wp-er] and [encountering recommendations][ds-er] involving millions of words of reading, I wanted a way to track long-term progress.
 
 I ended up building a local [reading tracker application][cibt].
+
+<div style="text-align: center;">
+  <img src="/img/ci-book-tracker.png" alt="CI Book Tracker" width="350">
+  <p><em>CI Book Tracker</em></p>
+</div>
 
 The project tracks books, estimated word counts, reading goals, and overall progress.
 
@@ -223,3 +236,6 @@ Then I'll come home and start accumulating hours again.
 [hanfh]: https://www.amazon.com/Hands-Hitting-Board-Book-Behavior/dp/157542200X
 [yt-ecj-d]: https://www.youtube.com/watch?v=m8epYLaS5jY
 [yt-js-ndb]: https://youtu.be/CpxvHfLe6zU?si=YbIidK1kCptAuMMU
+[ds-srr]: https://app.dreaming.com/spanish/series/intermediate?id=6a2acdd009d2527916e0410f
+[ds-seca]: https://app.dreaming.com/spanish/series/intermediate?id=6a27db4d09d2527916e040d1
+[ds-ses]: https://app.dreaming.com/spanish/series/intermediate?id=691d1601b0b7b6f887702b81
