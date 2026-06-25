@@ -6,7 +6,7 @@ draft = false
 tags = ["hours"]
 series = ["hours-log"]
 
-summary = "Notable progress in comprehension compared to months ago, but this time I focused on finding the type of input that will sustain me for the next 450 hours."
+summary = "Notable but quieter progress compared to months ago with a better sense for the input level that will get me to the next level."
 +++
 
 <div style="text-align: center;">
@@ -32,9 +32,9 @@ The last fifty hours felt different from the previous fifty.
 
 At 400 hours, I remember feeling excited about how much progress I'd made, but also overwhelmed by how much remained. Four hundred hours is a lot of time. At the same time, one thousand hours still felt incredibly far away.
 
-That feeling hasn't disappeared entirely, but something has changed. I increasingly trust the process itself. I've accumulated enough hours at this point that thinking back even to a few months ago I realize how much I've acquired and can clearly tell that it's working. I don't spend much time wondering what I should be doing or constantly searching for the right video. Most days the answer is simple: listen to Spanish (in the 50-70 level but occasionally higher or lower), read Spanish (A2 and B1), and continue accumulating input.
+That feeling hasn't disappeared entirely, but something has changed. I increasingly trust the process itself. I've accumulated enough hours at this point that thinking back to even just a few months ago it's obvious how much I've already acquired. I can clearly tell that it's working which is the kind of positive feedback loop needed to keep a lengthy learning process like this moving ahead. I don't spend as much time wondering what I should be doing or constantly searching for the right video. Most days the answer is simple: listen to Spanish (in the 50-70 level but occasionally higher or lower for variety), read Spanish (A2 and B1 graded readers), and continue accumulating input.
 
-The progress from 400 to 450 hours also felt quieter than previous milestones. There were fewer dramatic breakthroughs and more gradual refinement. Instead of constantly discovering new abilities, I spent this period learning what kinds of Spanish feel comfortable, enjoyable, and sustainable for to carry me to the next level.
+The progress from 400 to 450 hours also felt quieter than previous milestones. There were fewer dramatic breakthroughs and more gradual refinement. Instead of constantly discovering new abilities, I spent this period learning what kinds of Spanish feel comfortable, enjoyable, and sustainable. 
 
 ### Developing a Better Sense of My Current Level
 
