@@ -4,15 +4,13 @@ draft = false
 title = 'About'
 +++
 
-Hi, I’m Garrett.
+Hi, I'm Garrett.
 
 This is a record of my Spanish acquisition through comprehensible input. I started documenting at around 200 hours and plan to continue to at least 1000.
 
-If it ends up being useful to someone else navigating the same process, that’s a bonus.
+If it ends up being useful to someone else navigating the same process, that's a bonus.
 
 If you're new here, start with [the intro post]({{< relref "/hours/intro.md" >}}).
-
----
 
 <div class="tool-links">
   <a class="tool-link" href="https://gohugo.io/" aria-label="Hugo" target="_blank" rel="noopener noreferrer">
