@@ -11,80 +11,59 @@ summary = "Progress, challenges, and observations after ~200 hours of comprehens
 hours = 200
 +++
 
-At around 200 hours of input, I wanted to start documenting progress every ~50 hours.
-
-I’ll keep these posts simple. The goal is to answer two questions:
-
-- What’s getting better?
-- What’s still difficult?
-
----
-
 ## Snapshot
 
-- Hours: ~209  
-- Main input: Dreaming Spanish  
-- Daily input: ~90 minutes  
+- Hours: ~209
+- Main input: Dreaming Spanish
+- Daily input: ~90 minutes
 
----
-
-## What’s Improved
+## What's Improved
 
 ### Comprehension range
 
-I’m now comfortable with a lot of intermediate content.
+I'm now comfortable with a lot of intermediate content.
 
-Some intermediate videos (difficulty ~60 or below) feel around 85–90% comprehensible. Beginner content is often close to 100%, even if there are still unknown words that I can infer from context.
+Some intermediate videos at difficulty 60 or below feel around 85 to 90 percent comprehensible. Beginner content is often close to 100 percent, even if there are still unknown words that I can infer from context.
 
-I’ve found the official level labels somewhat misleading. The numeric difficulty rating has been more reliable. These days I mostly cycle through content in the **30–60 range**. Above 60, things tend to break down.
+I've found the official level labels somewhat misleading. The numeric difficulty rating has been more reliable. These days I mostly cycle through content in the 30 to 60 range. Above 60, things tend to break down.
 
 To keep things varied, I typically watch one intermediate video and then one beginner video. The intermediate videos require more focus; the beginner videos allow me to pick up new phrases or synonyms without much effort.
 
----
-
 ### Less translating, more direct understanding
 
-I’m noticeably translating less in my head.
+I'm noticeably translating less in my head.
 
-For many common phrases and connectors—*por lo menos, sin embargo, entonces, pues, vale, a ver, por lo tanto*—I’m starting to go straight to meaning instead of mentally converting to English.
+For many common phrases and connectors, such as *por lo menos, sin embargo, entonces, pues, vale, a ver,* and *por lo tanto*, I'm starting to go straight to meaning instead of mentally converting to English.
 
 Same with common verbs like *creo que, me siento, estaba, era, hace falta, me da cuenta*.
 
-It’s not consistent yet, but it’s happening more often.
+It's not consistent yet, but it's happening more often.
 
 I absolutely love the inconsistent but notable feeling of being 10 minutes deep into a video and realizing I'm following the content with almost no English in my head.
 
----
+### Comprehension outside lessons
 
-### Real-world comprehension
+Around 150 hours, I overheard my father in law on a phone call in Spanish.
 
-Around 150 hours, I overheard my father-in-law on a phone call in Spanish.
-
-I was able to follow what was happening—he was ordering a box of 25 of something for his restaurant.
+I was able to follow what was happening. He was ordering a box of 25 of something for his restaurant.
 
 That was the first time I understood a real, unscripted conversation. Big milestone.
-
----
 
 ### Content is actually enjoyable
 
 I watched [*Extr@ en español*](https://www.youtube.com/playlist?list=PLiSXvPiNzG5Ip24ZY75Zy23HAoMIokOfy) at around 150+ hours.
 
-It was a stretch at times, but I could follow the plot and even laugh in real time. That’s a big shift from earlier, where everything required effort.
+It was a stretch at times, but I could follow the plot and even laugh in real time. That's a big shift from earlier, where everything required effort.
 
----
-
-## What’s Still Hard
+## What's Still Hard
 
 ### Vocabulary gaps
 
-There’s still a lot I don’t know.
+There's still a lot I don't know.
 
-Some words I vaguely understand but not fully. A good example is **llevar**—I get the general idea, but its range of uses still trips me up.
+Some words I vaguely understand but not fully. A good example is *llevar*. I get the general idea, but its range of uses still trips me up.
 
-I’m working on not obsessing over this. There will always be gaps.
-
----
+I'm working on not obsessing over this. There will always be gaps.
 
 ### Native speech
 
@@ -92,47 +71,34 @@ Native conversations are still extremely difficult.
 
 When attempting to understand native speakers, I often fail to hear small phrases and connecting words and get disoriented quickly.
 
-I’ve tried watching [street interviews](https://youtu.be/oXW8K7Bc1io?si=WDosaSQnGQQxCr0L) and [conversations between native speakers](https://youtu.be/bhQnooudZcs?si=tJyOu9anZ6seYAd5), and I can barely follow a sentence. The rhythm and speed make it hard to process anything before the next phrase arrives.
+I've tried watching [street interviews](https://youtu.be/oXW8K7Bc1io?si=WDosaSQnGQQxCr0L) and [conversations between native speakers](https://youtu.be/bhQnooudZcs?si=tJyOu9anZ6seYAd5), and I can barely follow a sentence. The rhythm and speed make it hard to process anything before the next phrase arrives.
 
 It really highlights how valuable slower, clearer input is at this stage.
 
----
-
 ### Letting go of perfection
 
-Earlier (around 125–175 hours), I was constantly looking up words.
+Earlier, at around 125 to 175 hours, I was constantly looking up words.
 
-Now I’m getting better at sitting with ambiguity and focusing on overall meaning instead of trying to understand everything.
+Now I'm getting better at sitting with ambiguity and focusing on overall meaning instead of trying to understand everything.
 
-I also try to avoid subtitles—they’re too easy to rely on. However, I still use subtitles for videos where the audio is hard for me to hear.
+I also try to avoid subtitles because they're too easy to rely on. However, I still use subtitles for videos where the audio is hard for me to hear.
 
----
+## What I'm Doing Now
 
-## What I’m Doing Now
+I'm watching mostly content in the 30 to 60 difficulty range and occasionally testing harder material. I'm also avoiding excessive word lookups and prioritizing comprehension over precision.
 
-- Watching mostly content in the **30–60 difficulty range**
-- Occasionally testing harder material
-- Avoiding excessive word lookups
-- Prioritizing comprehension over precision
+I've also started experimenting with crosstalk using ChatGPT. I speak in English while it responds in Spanish.
 
-I’ve also started experimenting with **crosstalk using ChatGPT**. I speak in English while it responds in Spanish.
-
-It’s been surprisingly effective, although responses can feel repetitive and abbreviated and usage limits are a bit restrictive.
-
----
+It's been surprisingly effective, although responses can feel repetitive and abbreviated and usage limits are a bit restrictive.
 
 ## Notable Moments
 
-- First time understanding a real phone conversation in Spanish  
-- Laughing naturally at *Extr@ en español* without translating  
-- Noticing longer stretches of direct comprehension  
-
----
+The moments that stand out are understanding a real phone conversation in Spanish for the first time, laughing naturally at *Extr@ en español* without translating, and noticing longer stretches of direct comprehension.
 
 ## Takeaway
 
 The biggest shift so far is this:
 
-I’m starting to understand Spanish as Spanish: not just as something I translate into English.
+I'm starting to understand Spanish as Spanish: not just as something I translate into English.
 
-It’s still inconsistent, and there’s a long way to go. But something fundamental is changing.
+It's still inconsistent, and there's a long way to go. But something fundamental is changing.

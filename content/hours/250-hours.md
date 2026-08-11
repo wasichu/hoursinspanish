@@ -11,62 +11,49 @@ summary = "At 250 hours, progress feels quieter. I can follow more long form Spa
 hours = 250
 +++
 
-At around 250 hours of input, I wanted to record a quick update on progress.
-
-I’ll keep these posts simple. The goal is to answer two questions:
-
-- What’s getting better?
-- What’s still difficult?
-
----
-
 ## Snapshot
 
 - Hours: 250
 - Main input: Dreaming Spanish
 - Daily input: ~90 minutes
 
----
+## What's Improved
 
-## What’s Improved
+I can follow longer stretches of speech without visuals much better than before. I have been watching a lot of Sandra and Alma lately, and I have found that I really enjoy content that is mostly just someone talking. Two examples are [Sandra on menstruation](https://app.dreaming.com/spanish/watch?id=5fca1381cde79b067026f2af) and [Alma's ideal school system](https://app.dreaming.com/spanish/watch?id=617257a6d406bc0e502dd114).
 
-- I can follow longer stretches of speech without visuals much better than before. I have been watching a lot of Sandra and Alma lately, and I have found that I really enjoy content that is mostly just someone talking (for example: [Sandra on menstruation](https://app.dreaming.com/spanish/watch?id=5fca1381cde79b067026f2af), [Alma's ideal school system](https://app.dreaming.com/spanish/watch?id=617257a6d406bc0e502dd114)).
-- I can now handle videos in the 60 to 65 difficulty range reasonably well. Most of the time I am understanding around 80 percent or more. Sometimes this includes advanced videos like [Agustina in the world's most amazing bookstore](https://app.dreaming.com/spanish/watch?id=697b27f8b0b7b6f887703044).
-- I am getting better at following meaning directly instead of mentally translating everything into English.
-- I am much more comfortable letting ambiguity sit for a while. If I do not understand something, I am more likely to trust that it will either get explained in the next few sentences or turn out not to matter very much.
-- I feel less compulsive about rewinding and looking things up. That alone has made input feel smoother and more sustainable.
+I can now handle videos in the 60 to 65 difficulty range reasonably well. Most of the time I am understanding around 80 percent or more. Sometimes this includes advanced videos like [Agustina in the world's most amazing bookstore](https://app.dreaming.com/spanish/watch?id=697b27f8b0b7b6f887703044).
+
+I am getting better at following meaning directly instead of mentally translating everything into English. I am also much more comfortable letting ambiguity sit for a while. If I do not understand something, I am more likely to trust that it will either get explained in the next few sentences or turn out not to matter very much.
+
+I feel less compulsive about rewinding and looking things up. That alone has made input feel smoother and more sustainable.
 
 One of the biggest shifts is not exactly that Spanish suddenly feels clear. It feels more like scanning the radio on a road trip. The meaning is usually there now, but it still fades in and out.
 
----
+## What's Still Hard
 
-## What’s Still Hard
+At around 235 hours, after a couple [Pablo](https://app.dreaming.com/spanish/watch?id=5e4d1237aac87f3820954d15) [videos](https://app.dreaming.com/spanish/watch?id=5e4d1237aac87f3820954d15) on [this classic Spanish TV series](https://en.wikipedia.org/wiki/Verano_azul) from the 80s, I tried watching *Verano Azul*[^1], and it was mostly beyond me. I could maybe follow around 40 percent, but that wasn't enough to really understand what was happening or catch the humor. It felt like I was always just behind the conversation. That said, the show itself was compelling enough that I watched a full episode anyway. I plan to come back to it more seriously around 500 hours.
 
-- At ~235 hours, after a couple [Pablo](https://app.dreaming.com/spanish/watch?id=5e4d1237aac87f3820954d15) [videos](https://app.dreaming.com/spanish/watch?id=5e4d1237aac87f3820954d15) on [this classic Spanish TV series](https://en.wikipedia.org/wiki/Verano_azul) from the 80s, I tried watching *Verano Azul*[^1], and it was mostly beyond me. I could maybe follow around 40 percent, but that wasn’t enough to really understand what was happening or catch the humor. It felt like I was always just behind the conversation. That said, the show itself was compelling enough that I watched a full episode anyway. I plan to come back to it more seriously around 500 hours.
-- Numbers are still a weak point. Single and double digit numbers come through easily, but dates and larger numbers still feel slow. I often need a moment to translate them before they make sense, which interrupts comprehension more than I would like.
-- Vocabulary is still a major limitation. I can often get the gist, but there are plenty of moments where a missing word keeps me from fully landing the meaning of a sentence or a joke. In those cases, I tend to rewind the video a bit and see if I can't catch the meaning better with a repeated listen. Sometimes that works, but not always. In those cases I either look the word up or move on and trust that I'll come across it again in the future.
-- Some common verbs still feel slippery, especially *poder* and *deber*. At one point they felt straightforward, but now I notice more nuance and overlap in how they are used, which oddly makes them feel less solid.
-- Comedy is still hard for exactly that reason. A native Spanish speaking friend sent me [a YouTube short](https://www.youtube.com/shorts/fEQBbLjxfwk) recently, and although I could follow parts of it, I missed enough vocabulary that the punchlines did not fully land in the moment.
-- Overall comprehension is still inconsistent. Some days I feel like I am understanding a lot, and other days it feels more fragile. This does not seem like regression so much as increased resolution. Things that once looked simple now reveal more nuance. For example, a common word like *ya* does a lot of work, and I am still expanding my understanding of it across different situations.
+Numbers are still a weak point. Single and double digit numbers come through easily, but dates and larger numbers still feel slow. I often need a moment to translate them before they make sense, which interrupts comprehension more than I would like.
 
----
+Vocabulary is still a major limitation. I can often get the gist, but there are plenty of moments where a missing word keeps me from fully landing the meaning of a sentence or a joke. In those cases, I tend to rewind the video a bit and see if I can't catch the meaning better with a repeated listen. Sometimes that works, but not always. I either look the word up or move on and trust that I'll come across it again in the future.
 
-## What I’m Doing Now
+Some common verbs still feel slippery, especially *poder* and *deber*. At one point they felt straightforward, but now I notice more nuance and overlap in how they are used, which oddly makes them feel less solid.
 
-- I am continuing to prioritize input volume over perfectionism.
-- I am trying not to interrupt the process every time I hear a word I do not know.
-- I have started writing down phrases that stand out to me, not obsessively, but enough to revisit things that feel memorable or useful.
-- I am continuing to spend a lot of time with long form spoken content, even when it is less visually supported.
-- More than anything, I am trying to trust the process. Language acquisition feels increasingly probabilistic to me. Meaning builds by repeated exposure, not by forcing every detail into place on first contact.
+Comedy is still hard for exactly that reason. A native Spanish speaking friend sent me [a YouTube short](https://www.youtube.com/shorts/fEQBbLjxfwk) recently, and although I could follow parts of it, I missed enough vocabulary that the punchlines did not fully land in the moment.
 
----
+Overall comprehension is still inconsistent. Some days I feel like I am understanding a lot, and other days it feels more fragile. This does not seem like regression so much as increased resolution. Things that once looked simple now reveal more nuance. For example, a common word like *ya* does a lot of work, and I am still expanding my understanding of it across different situations.
 
-## Notable Moments (optional)
+## What I'm Doing Now
 
-- One notable change is that progress now feels subtler than it did earlier. The jump from 0 to 100 hours felt dramatic. The jump from 150 to 250 hours feels quieter, even though real improvement is clearly happening.
-- I think the most important change is not that I know dramatically more. It is that I am less bothered by not knowing as my comprehension gradually arrives through the static.
+I am continuing to prioritize input volume over perfectionism and trying not to interrupt the process every time I hear a word I do not know. I have started writing down phrases that stand out to me, not obsessively, but enough to revisit things that feel memorable or useful.
 
----
+I am also spending a lot of time with longer spoken content, even when it has less visual support. More than anything, I am trying to trust the process. Language acquisition feels increasingly probabilistic to me. Meaning builds by repeated exposure, not by forcing every detail into place on first contact.
+
+## Notable Moments
+
+Progress now feels subtler than it did earlier. The jump from 0 to 100 hours felt dramatic. The jump from 150 to 250 hours feels quieter, even though real improvement is clearly happening.
+
+I think the most important change is not that I know dramatically more. It is that I am less bothered by not knowing as my comprehension gradually arrives through the static.
 
 ## Takeaway
 

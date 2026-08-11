@@ -30,9 +30,9 @@ I'm largely following the Dreaming Spanish [method](https://www.dreaming.com/met
 
 Most posts fall into two categories. 
 
-The Hours posts are milestone updates at roughly 50-hour intervals. 
+The [Hours]({{< relref "/hours/_index.md" >}}) posts are milestone updates at roughly 50-hour intervals.
 
-The Compartir posts cover things, like songs or words, I've found worth sharing along the way.
+The [Compartir]({{< relref "/compartir/_index.md" >}}) posts cover things, like songs or words, I've found worth sharing along the way.
 
 This introduction is neither of those but orients the reader and provides the context for the rest of the blog.
 

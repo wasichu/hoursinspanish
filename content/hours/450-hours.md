@@ -14,17 +14,15 @@ summary = "Notable but quieter progress compared to months ago with a better sen
   <p><em>Proof</em></p>
 </div>
 
----
 
 ## Snapshot
 
-* Hours: 450
-* Main input: Dreaming Spanish
-* Daily input: ~90 minutes
-* Main listening: Long-form podcasts, discussions, and series
-* Main reading: A2 and B1 graded readers
+- Hours: 450
+- Main input: Dreaming Spanish
+- Daily input: ~90 minutes
+- Main listening: Longer podcasts, discussions, and series
+- Main reading: A2 and B1 graded readers
 
----
 
 ## 450 Hours
 
@@ -32,7 +30,7 @@ The last fifty hours felt different from the previous fifty.
 
 At 400 hours, I remember feeling excited about how much progress I'd made, but also overwhelmed by how much remained. Four hundred hours is a lot of time. At the same time, one thousand hours still felt incredibly far away.
 
-That feeling hasn't disappeared entirely, but something has changed. I increasingly trust the process itself. I've accumulated enough hours at this point that thinking back to even just a few months ago it's obvious how much I've already acquired. I can clearly tell that it's working which is the kind of positive feedback loop needed to keep a lengthy learning process like this moving ahead. I don't spend as much time wondering what I should be doing or constantly searching for the right video. Most days the answer is simple: listen to Spanish (in the 50-70 level but occasionally higher or lower for variety), read Spanish (A2 and B1 graded readers), and continue accumulating input.
+That feeling hasn't disappeared entirely, but something has changed. I increasingly trust the process itself. I've accumulated enough hours at this point that thinking back to even just a few months ago it's obvious how much I've already acquired. I can clearly tell that it's working which is the kind of positive feedback loop needed to keep a lengthy learning process like this moving ahead. I don't spend as much time wondering what I should be doing or constantly searching for the right video. Most days the answer is simple: listen to Spanish (in the 50 to 70 level but occasionally higher or lower for variety), read Spanish (A2 and B1 graded readers), and continue accumulating input.
 
 The progress from 400 to 450 hours also felt quieter than previous milestones. There were fewer dramatic breakthroughs and more gradual refinement. Instead of constantly discovering new abilities, I spent this period learning what kinds of Spanish feel comfortable, enjoyable, and sustainable. 
 
@@ -44,7 +42,7 @@ I listened to [a Dreaming Spanish podcast][ds-plalangs] about the languages peop
 
 I watched [Agustina's video][ds-ap] about things that surprised her in Panama, rated 57, and again understood almost everything.
 
-I listened to [a nearly forty-minute podcast][ds-pfca] featuring Agustina and Shel discussing culinary differences between Argentina and Colombia. Afterward I checked the rating and discovered it was a 60. Aside from a handful of unknown words, it was completely comprehensible.
+I listened to [a podcast nearly forty minutes long][ds-pfca] featuring Agustina and Shel discussing culinary differences between Argentina and Colombia. Afterward I checked the rating and discovered it was a 60. Aside from a handful of unknown words, it was completely comprehensible.
 
 Experiences like these are becoming increasingly common.
 
@@ -56,7 +54,7 @@ Later I watched two videos in the 70s. [One discussed the weather][ds-wba] in Bu
 
 ### Speaker, Topic, and Format Matter
 
-What I've realized is that my comprehension isn't determined solely by a difficulty rating. At earlier stages, I tended to think of Spanish as a single skill that either worked or didn't. Now the picture feels much more nuanced. The speaker matters. The topic matters. The format matters. A forty-minute conversation between familiar guides can feel almost effortless, while a shorter video with a different speaker can be surprisingly challenging. I'm becoming less interested in whether content is objectively difficult and more interested in understanding what specifically makes it easy or hard for me.
+What I've realized is that my comprehension isn't determined solely by a difficulty rating. At earlier stages, I tended to think of Spanish as a single skill that either worked or didn't. Now the picture feels much more nuanced. Both the speaker and the topic matter, as does the format. A conversation of forty minutes between familiar guides can feel almost effortless, while a shorter video with a different speaker can be surprisingly challenging. I'm becoming less interested in whether content is objectively difficult and more interested in understanding what specifically makes it easy or hard for me.
 
 During this stretch I became much more aware of why certain content feels easier or harder.
 
@@ -70,7 +68,7 @@ Street interviews remain challenging for similar reasons. The problem often isn'
 
 Topic matters too.
 
-The weather video was easier than the Andrés story, even though both were similarly rated. Informational content gives me more opportunities to predict what kinds of ideas and vocabulary are likely to appear. Stories are more open-ended. They force me to pay closer attention because the conversation can go anywhere.
+The weather video was easier than the Andrés story, even though both were similarly rated. Informational content gives me more opportunities to predict what kinds of ideas and vocabulary are likely to appear. Stories are more open. They force me to pay closer attention because the conversation can go anywhere.
 
 ### Series Finally Clicked
 
@@ -92,8 +90,8 @@ In a strange way, the discovery wasn't that series are useful. The discovery was
 
 On the off chance this is useful to someone at some point, some of my favorite series for the last 50 hours:
 
-- [Rude Reviews][ds-srr] with Agustina where she critiques the interior design choices of celebrities. Not something I would normally seek out but her presentations are excellent. Hearing her talk animatedly about terrible couches and lamps is a very memorable way to consume top-notch intermediate content
-- [Explore Central Asia][ds-seca] with Agustina and her father Gustavo is incredibly well produced and researched. This is not a region of the world I know much about or would've thought to explore but the content is engaging, both in general and from a language learning perspective. Plus, anything with Gustavo is must watch for me. I similarly recommend the hotel reviews Agustina does with her dad about the places they stayed in during their trips throughout central Asia
+- [Rude Reviews][ds-srr] with Agustina where she critiques the interior design choices of celebrities. Not something I would normally seek out but her presentations are excellent. Hearing her talk animatedly about terrible couches and lamps is a very memorable way to consume excellent intermediate content
+- [Explore Central Asia][ds-seca] with Agustina and her father Gustavo is incredibly well produced and researched. This is not a region of the world I know much about or would've thought to explore but the content is engaging, both in general and from a language learning perspective. Plus, anything with Gustavo is essential viewing for me. I similarly recommend the hotel reviews Agustina does with her dad about the places they stayed in during their trips throughout central Asia
 - [Explore Sevilla][ds-ses] with Andrés where he explores different places in Sevilla and even interviews some of the locals (in a bar, in a university, etc.). I love the accents there and find Andrés' content to be of a consistently high quality, both humorous and thought provoking. After seeing Sevilla in these videos, it's definitely on my list of places to visit in the future if fate allows
 
 ### Reading Is Becoming More Important
@@ -110,7 +108,7 @@ One example was:
 
 There was nothing especially advanced about the vocabulary, but the sentence required me to carefully track who liked whom.
 
-I also loved the vocabulary sections at the end of each chapter. Within each chapter there are some bold words and phrases; at the end of the chapter these are defined. Rather than translating into English, Juan explained them in Spanish. Reading dictionary-style definitions in Spanish was surprisingly enjoyable.
+I also loved the vocabulary sections at the end of each chapter. Within each chapter there are some bold words and phrases; at the end of the chapter these are defined. Rather than translating into English, Juan explained them in Spanish. Reading definitions in Spanish was surprisingly enjoyable.
 
 After finishing the book, I moved to an A2 reader called [*Un hombre fascinante*][jf-uhf].
 
@@ -130,7 +128,7 @@ This feels similar to what I've discovered in listening. The most beneficial mat
 
 Reading also became more concrete during this stretch.
 
-After learning more about [research on extensive reading][wp-er] and [encountering recommendations][ds-er] involving millions of words of reading, I wanted a way to track long-term progress.
+After learning more about [research on extensive reading][wp-er] and [encountering recommendations][ds-er] involving millions of words of reading, I wanted a way to track progress over time.
 
 I ended up building a local [reading tracker application][cibt].
 
@@ -143,7 +141,7 @@ The project tracks books, estimated word counts, reading goals, and overall prog
 
 In some ways the application itself isn't the important part.
 
-The important part is that reading now feels like a permanent part of my language-learning process rather than something I occasionally experiment with.
+The important part is that reading now feels like a permanent part of my language learning process rather than something I occasionally experiment with.
 
 ### Revisiting Old Territory
 
@@ -155,11 +153,11 @@ I had done this before six months ago when I went to Lakeshore for Christmas pre
 
 This time the experience was completely different.
 
-One of the books I read this time was [*Hands Are Not for Hitting*][hanfh] which is for ages 4-7.
+One of the books I read this time was [*Hands Are Not for Hitting*][hanfh] which is for ages four to seven.
 
 The book felt comfortable and straightforward. It was exciting to think back and notice how much my comprehension has improved since I started acquiring Spanish.
 
-It might sound silly to be proud of a first grade reading level but it's actually surprisingly involved. Moreover, my language level isn't even at the level of my first grader yet. Native-speaking children at that age possess a much larger vocabulary, stronger grammar intuition, and vastly better speaking ability than I do.
+It might sound silly to be proud of a first grade reading level but it's actually surprisingly involved. Moreover, my language level isn't even at the level of my first grader yet. Native children at that age possess a much larger vocabulary, stronger grammar intuition, and vastly better speaking ability than I do.
 
 But it felt very motivating to comfortably comprehend childrens books that once felt nearly inscrutable.
 
@@ -195,15 +193,7 @@ The lesson was that native speakers are experts in their own variety of Spanish,
 
 Perhaps the biggest lesson of the last fifty hours is that I am becoming more aware of my own comprehension.
 
-A few hundred hours ago most content fell into two categories: understandable and not understandable.
-
-Now the picture is more nuanced.
-
-I understand some speakers better than others.
-
-I understand some topics better than others.
-
-I understand informational content differently than stories.
+A few hundred hours ago most content fell into two categories: understandable and not understandable. Now the picture is more nuanced. My comprehension varies with the speaker and the topic, and informational content lands differently from stories.
 
 I can identify where my comfort zone currently lies and where the edges begin.
 

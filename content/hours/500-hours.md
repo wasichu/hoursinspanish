@@ -16,19 +16,17 @@ hours = 500
   <p><em>Proof</em></p>
 </div>
 
----
 
 ## Snapshot
 
-* Hours: 500
-* Main input: Dreaming Spanish
-* Daily input: ~90 minutes when in my normal routine
-* Reading: 11 graded readers completed, about 207,500+ words tracked
-* Current reading level: B1 feels smooth; considering trying B2 soon
-* Recent milestone: Two weeks in Spain using Spanish in real situations
-* Current feel: Functional but foggy in the wild; increasingly comfortable and automatic with comprehensible input
+- Hours: 500
+- Main input: Dreaming Spanish
+- Daily input: ~90 minutes when in my normal routine
+- Reading: 11 graded readers completed, about 207,500+ words tracked
+- Current reading level: B1 feels smooth; considering trying B2 soon
+- Recent milestone: Two weeks in Spain using Spanish in real situations
+- Current feel: Functional but foggy in the wild; increasingly comfortable and automatic with comprehensible input
 
----
 
 While not a new DS level, I am now at what feels like a significant milestone: 500 hours of Spanish input. 
 
@@ -42,7 +40,7 @@ My Spanish is real now. It is practically useful. I can buy things, ask question
 
 The best phrase I found for this level and my ability in Spain was successful but foggy.
 
-That may sound like a contradiction, but it describes the experience almost perfectly. I could often do what I needed to do. I could get through the interaction. I could buy tickets, order food, ask about ingredients, buy medicine, mail postcards, buy lottery tickets and talk to taxi drivers. But under the surface I was often guessing, reconstructing, missing pieces and hoping I had understood the important part.
+That may sound like a contradiction, but it describes the experience almost perfectly. I could often do what I needed to do. I could get through the interaction. I could buy tickets, order food, ask about ingredients, buy medicine, mail postcards, buy lottery tickets and talk to taxi drivers. But under the surface I was often guessing and reconstructing, missing pieces while hoping I had understood the important part.
 
 To someone watching from the outside, especially my father in law who speaks Spanish natively, it could look like I knew more than I did. He kept telling me that I had Spanish, that I understood, that I was doing fine. I appreciated the encouragement, but internally I kept thinking, no, not exactly. I am not a beginner anymore, but I am not where I want to be. Not even close.
 
@@ -74,13 +72,13 @@ That little moment was a good summary of the trip. First attempt foggy. Second a
 
 Not all repairs worked. At one lunch, my mother in law and I both had lentils with chorizo as part of the first course for the menú del día. There was a big bowl left over, and I wanted to take the rest to go. I tried to ask for it, and I think I said para llevar, but I did not make clear that I meant the rest of the existing lentils. The waiter was confused. I tried to drop it, but my father in law, a native Spanish speaker, who had not really been listening, jumped in and accidentally got me a whole new order to go.
 
-Afterward I realized that the key phrase I needed was something like *lo que queda de las lentejas* or *el resto de las lentejas*. In the moment, though, my spontaneous ability collapsed. I had the idea. I even had some of the words. But I could not produce the right sentence under pressure nor re-phrase myself properly to clear the confusion.
+Afterward I realized that the key phrase I needed was something like *lo que queda de las lentejas* or *el resto de las lentejas*. In the moment, though, my spontaneous ability collapsed. I had the idea. I even had some of the words. But I could not produce the right sentence under pressure nor rephrase myself properly to clear the confusion.
 
 That is where I am with speaking. I can get a lot done, but I am often building (not always successfully) little emergency rafts in real time.
 
 Still, by the end of the trip, some repeated phrases were coming out faster. I noticed that I no longer had to pause to retrieve something like *leche de soja*. Common transactional language became more automatic because I had used it repeatedly. *Para llevar*, *con tarjeta*, *¿qué lleva?*, *así está bien*, things like that became easier to access.
 
-I do not think speaking itself is what makes me acquire Spanish in the deeper sense. What it does do is force retrieval of language I already partly know. It makes a small set of practical phrases faster and more available. But the big bottleneck is still comprehension. I need to hear more. I need to process faster. I need to recognize common phrases immediately instead of reconstructing them two seconds too late.
+I do not think speaking itself is what makes me acquire Spanish in the deeper sense. What it does do is force retrieval of language I already partly know. It makes a small set of practical phrases faster and more available. But the big bottleneck is still comprehension. I need to hear more and process faster. Common phrases need to register immediately instead of two seconds too late.
 
 Spain showed me that more clearly than anything else could have.
 
@@ -104,7 +102,7 @@ There were also moments where I felt oddly proud of tiny things. At a family din
 
 Another small favorite moment happened in a general store in [Potes][wp-potes]. An English speaking customer was trying to ask the clerk if they had something to clean glasses. The clerk did not understand and said no. I spoke up and offered, *para limpiar las gafas*, and the clerk immediately pointed the customer to the right shelf. For a few seconds, I was not the confused foreigner. I was the bridge. That felt great.
 
-The most enriching social experience happened around [Ribadesella][wp-ribadesella] and [Merodio][wp-merodio], where we met people connected to my father in law’s family. I was mostly listening, not speaking a lot, but I could often follow the conversation. Maybe 60 to 70 percent with clearer speakers.
+The most enriching social experience happened around [Ribadesella][wp-ribadesella] and [Merodio][wp-merodio], where we met people connected to my father in law's family. I was mostly listening, not speaking a lot, but I could often follow the conversation. Maybe 60 to 70 percent with clearer speakers.
 
 One night in [Merodio][wp-merodio], a local man in a bar talked to me. He first asked if I was Mexican (not sure why?), and I could catch a bit of what he said after that, but then my understanding was operating at around 30 percent if I'm being generous. He sounded very mumbly to me, and he may have been speaking partly Asturian or using very local speech. That was rough. I was mostly lost.
 
@@ -122,11 +120,11 @@ Madrid gave me a different kind of practice. I took close to a dozen taxis and t
 
 I talked about where I was from, whether the driver was born in Madrid, how long he had been a taxista, my trip, football, and the World Cup. One night I went by myself to watch Spain play France in [a beer bar][gm-beerhouse] near Trafalgar and Chamberí. The taxi driver asked if I was going home, and I told him I was visiting from the United States. He complimented my Spanish and said he could understand everything I said. I am trying to take those compliments seriously without getting a big head. Useful feedback, not a coronation.
 
-My final Spanish conversation in Spain was with the taxi driver who took us to the airport. This was not a perfectly smooth conversation at all, although it worked well enough that we covered various topics and generally seemed to understand each other. We talked about Spain’s semifinal victory over France the night before, who might win the other semifinal, whether he was born in Madrid, how long he had worked as a taxi driver, and a little about my trip. That felt like a good ending. Not perfect Spanish, not even close, but real small talk while tired, at the end of two weeks, on the way out of the country.
+My final Spanish conversation in Spain was with the taxi driver who took us to the airport. This was not a perfectly smooth conversation at all, although it worked well enough that we covered various topics and generally seemed to understand each other. We talked about Spain's semifinal victory over France the night before, who might win the other semifinal, whether he was born in Madrid, how long he had worked as a taxi driver, and a little about my trip. That felt like a good ending. Not perfect Spanish, not even close, but real small talk while tired, at the end of two weeks, on the way out of the country.
 
-There was also some passive or semi passive comprehension in the wild. In San Sebastián, my daughter and I went on a 45 minute [tourist train][ss-tourist-train] (it's more a tram), and I chose the audio tour in castellano. I understood around 60 percent or more. That was fun. It was not a lesson. It was not a video. It was a city talking to me through headphones while we moved through it.
+There was also some passive comprehension in the wild. In San Sebastián, my daughter and I went on a 45 minute [tourist train][ss-tourist-train] (it's more a tram), and I chose the audio tour in castellano. I understood around 60 percent or more. That was fun. It was not a lesson. It was not a video. It was a city talking to me through headphones while we moved through it.
 
-What I liked about it was that I could participate in a normal daily-life tourist activity in Spanish and still get something valuable out of it. I did not understand everything, but I understood enough for the experience to be worth doing in Spanish.
+What I liked about it was that I could participate in a normal everyday tourist activity in Spanish and still get something valuable out of it. I did not understand everything, but I understood enough for the experience to be worth doing in Spanish.
 
 ## Coming Back to Input
 
@@ -134,9 +132,9 @@ What I liked about it was that I could participate in a normal daily-life touris
 
 At the same time, Spain taught me that living in a Spanish speaking country would not magically make me fluent. Commercial interactions alone are too narrow. If I lived there, I could get very good at ordering food, buying things, asking for directions and taking taxis while still remaining weak in deeper conversation, humor, abstract topics, media, friendships and work. Immersion is opportunity, not automatic acquisition. I would still need serious input and deliberate breadth.
 
-That became even clearer when I returned from the trip. I had about 22 hours left until 500, and I felt oddly locked in when I resumed comprehensible input. After two weeks of real world Spanish, slower videos felt valuable in a new way. They did not feel like stepping backward. They felt like consolidation.
+That became even clearer when I returned from the trip. I had about 22 hours left until 500, and I felt oddly locked in when I resumed comprehensible input. After two weeks of Spanish in the real world, slower videos felt valuable in a new way. They did not feel like stepping backward. They felt like consolidation.
 
-In Spain, I was often operating at the margins of comprehensibility. Back home, input gives me repeated, low stress exposure to things I already sort of know. It turns shaky recognition into automatic recognition. It makes common phrases more reflexive. It helps me stop consciously decoding and start simply understanding.
+In Spain, I was often operating at the margins of comprehensibility. Back home, input gives me repeated, exposure without much stress to things I already sort of know. It turns shaky recognition into automatic recognition. It makes common phrases more reflexive. It helps me stop consciously decoding and start simply understanding.
 
 I also noticed that my tolerance for missing words improved. I watched a level 75 video [getting to know Alma][ds-gtka], and while I definitely did not catch everything, I followed the gist and stayed engaged. Alma speaks fast, but she is very clear, and her speed did not bother me. The important thing was that I felt like I was still in the middle of meaning even when I missed individual words.
 
@@ -144,15 +142,15 @@ That phrase feels important to me: in the middle of meaning.
 
 That is different from catching every word. It means I know what is happening, where the conversation is going, what the emotional tone is, what the speaker is doing. I can miss a few pieces and not panic.
 
-Reflecting on this experience, and other similar ones, after returning from Spain and getting to 500 hours I feel at ease in the mid to upper intermediate realm with an increasing ability to handle Advanced videos, too. Anything up to 65 is comfortable: I won't know every word but I never get lost. My ceiling for the complexity I can tolerate has gone up a bit, too, to around 75-80.
+Reflecting on this experience, and other similar ones, after returning from Spain and getting to 500 hours I feel at ease in the mid to upper intermediate realm with an increasing ability to handle Advanced videos, too. Anything up to 65 is comfortable: I won't know every word but I never get lost. My ceiling for the complexity I can tolerate has gone up a bit, too, to around 75 to 80.
 
-I had another positive post trip moment with [a 41 minute Andrés video][ds-iss] called Is Spain No Longer Safe? It was rated 77 and covered crime data, statistics, immigration and whether crime has gone up in Spain in recent years. I found it very comprehensible. Partly because Andrés was not speaking too quickly. Partly because I knew the subject. There was plenty of new vocabulary, but much of it was understandable from context. Words like tasa, cifras and denuncias fit into the argument.
+I had another positive moment after the trip with [a 41 minute Andrés video][ds-iss] called Is Spain No Longer Safe? It was rated 77 and covered crime data, statistics, immigration and whether crime has gone up in Spain in recent years. I found it very comprehensible. Partly because Andrés was not speaking too quickly. Partly because I knew the subject. There was plenty of new vocabulary, but much of it was understandable from context. Words like tasa, cifras and denuncias fit into the argument.
 
 I do not watch one video and think, I know Spanish now. I know better than that. But I could follow the argument and analysis throughout, and that felt good. It was not a shop interaction or travel Spanish. It was abstract, analytical content.
 
 I have also been watching native Cuban YouTube channels about cooking and daily life. One is by [Yani Nápoles][yt-yn]. Her accent is thick for me and poses challenges although I enjoy how it sounds. With subtitles I can follow maybe 75 percent or more, but without subtitles I am closer to 60 percent. The subtitles, although possibly looked down upon by CI purists, are helping me tune into her accent. Are they training wheels? Sure. But they're no less useful by calling them that, and I'm not above Spanish subtitles whenever it's helpful. Another channel, by [Clau Llauger][yt-cl] from Santiago de Cuba, is much easier for me to understand without subtitles.
 
-Both channels are made for native speakers. That is exciting. The content is about cooking and food, but it also gives a window into Cuban homes, routines, scarcity, improvisation and everyday life. YouTube is incredible for this. I can expose myself to so many accents and ways of life from my couch. Spanish is not just a language to learn. It is a way into other people’s worlds.
+Both channels are made for native speakers. That is exciting. The content is about cooking and food, but it also gives a window into Cuban homes, routines, scarcity, improvisation and everyday life. YouTube is incredible for this. I can expose myself to so many accents and ways of life from my couch. Spanish is not just a language to learn. It is a way into other people's worlds.
 
 ### Reading, Comfort and Seeking Challenges
 
@@ -178,7 +176,7 @@ That may be the biggest takeaway.
 
 The trip did not make me complacent. It made me hungrier.
 
-I can see that the method works because it has already worked. I can also see how much there is left to acquire. I need more listening, more reading, more accents, more speech that is fast but clear, more speech that is not clear at all, more native content, more easy input, more hard input, more ordinary phrases becoming automatic.
+I can see that the method works because it has already worked. I can also see how much there is left to acquire. I need more listening and reading across a wider range of accents. I need native content, easy input, hard input, clear fast speech, and speech that is not clear at all. I need more ordinary phrases to become automatic.
 
 *Todavía me queda mucho trabajo por delante.*
 
