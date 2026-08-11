@@ -15,27 +15,11 @@ It is just Valeria singing while playing piano, but the emotional force she pull
 
 After falling in love with this rendition, I listened to the [original][ov] version by [Joaquín Sabina][js]. Please do not kill me, but I think I prefer Valeria's interpretation although I enjoy the original, too. I often feel this way about artists like [Leonard Cohen][lc] or [Tom Waits][tw], where I consider them absolutely top tier songwriters and lyricists even if I do not always connect as deeply with the musical arrangements or vocal style of the original recordings themselves.
 
-What fascinates me most about Contigo is the songwriting structure. On paper, building verse after verse around the repeated phrase **_yo no quiero_** sounds like it could become repetitive or stale very quickly. Instead, the song becomes richer and more emotionally devastating with every image.
+What fascinates me most about Contigo is the songwriting structure. On paper, building verse after verse around the repeated phrase *yo no quiero* sounds like it could become repetitive or stale very quickly. Instead, the song becomes richer and more emotionally devastating with every image.
 
-The details are heartbreakingly banal and gorgeously domestic.
+The details are heartbreakingly banal and gorgeously domestic. The song moves through trips to the past where someone returns from the market wanting to cry, neighbors with stews, Sunday afternoons, the fourteenth of February, and happy birthdays. There are suitcases to carry and shampoo to choose. There is no desire to get together tomorrow or much enthusiasm for eating apples. Then there is the desire to kiss someone's scar.
 
-- Trips to the past where someone returns from the market wanting to cry.
-
-- Neighbors with stews.
-
-- Sunday afternoons.
-
-- The fourteenth of February and happy birthdays.
-
-- Carrying suitcases and choosing shampoo.
-
-- Not wanting to get together tomorrow.
-
-- Eating apples without desire or enthusiasm.
-
-- Wanting to kiss someone's scar.
-
-I had to look up many of the images and expressions even though I understood the emotional core of the song immediately on the first listen. One phrase I especially loved was **_tener ganas_**, which I feel like I have been hearing constantly lately in Spanish input. And **_cicatriz_** instantly became one of my favorite words.
+I had to look up many of the images and expressions even though I understood the emotional core of the song immediately on the first listen. One phrase I especially loved was *tener ganas*, which I feel like I have been hearing constantly lately in Spanish input. And *cicatriz* instantly became one of my favorite words.
 
 What makes the song extraordinary to me is how it transforms the ordinary details of domestic life into something tragic and intimate and suffocating and beautiful all at once. The repeated yo no quiero structure slowly accumulates emotional weight until the chorus feels almost dangerous in its intensity.
 
@@ -50,4 +34,3 @@ Part of what I have most loved about acquiring Spanish has been discovering an e
 [ov]: https://www.youtube.com/watch?v=FOJq2dYb4xI
 [lc]: https://en.wikipedia.org/wiki/Leonard_Cohen
 [tw]: https://en.wikipedia.org/wiki/Tom_Waits
-

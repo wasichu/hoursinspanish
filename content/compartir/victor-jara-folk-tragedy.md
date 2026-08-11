@@ -11,9 +11,9 @@ Over the past few months I have been periodically returning to listen to [**Te r
 
 {{< youtube 1q2_zOfuGcA >}}
 
-Part of what makes the song so powerful is knowing who Jara really was. He was not some detached observer writing abstract political poetry from a safe distance. He lived the world he sang about. He belonged to the tradition of politically engaged folk musicians who saw music as something inseparable from ordinary people, labor, poverty, injustice, love, memory, and dignity. And of course there is the unbearable historical weight surrounding him: his torture and assassination after the Chilean coup in 1973. Knowing his fate changes the emotional texture of the song entirely. Every line feels haunted.
+Part of what makes the song so powerful is knowing who Jara really was. He was not some detached observer writing abstract political poetry from a safe distance. He lived the world he sang about. He belonged to the tradition of politically engaged folk musicians who saw music as inseparable from ordinary people and their labor, poverty, injustice, love, memory, and dignity. And of course there is the unbearable historical weight surrounding him: his torture and assassination after the Chilean coup in 1973. Knowing his fate changes the emotional texture of the song entirely. Every line feels haunted.
 
-Musically, this is one of my favorite styles of imaginable: sparse acoustic guitar, direct singing, almost no ornamentation, no excess. 
+Musically, this is one of my favorite styles imaginable. The acoustic guitar is sparse, the singing direct, with almost no ornamentation or excess.
 
 I played acoustic guitar throughout high school and undergrad and spent years obsessed with moody singer songwriter music and stripped down ballads. 
 
@@ -23,19 +23,7 @@ Jara feels spiritually connected to that lineage to me.
 
 There is a similar moral seriousness in his music: a belief that a song can carry human experience without spectacle. It can offer rebellious hope, or at least [a glimmer of humanity][whap], even in dire circumstances.
 
-What destroys me most about **Te recuerdo Amanda** is how simple the imagery is.
-
-The wet street.
-
-Amanda running through the rain.
-
-Life built around the factory.
-
-The rain in her hair.
-
-The eternity contained inside a five minute break.
-
-The fragile, plaintive refrain of __con él, con él, ...__.
+What destroys me most about *Te recuerdo Amanda* is how simple the imagery is: the wet street, Amanda running through the rain, life built around the factory, the rain in her hair, and the eternity contained inside a five minute break. Then there is the fragile, plaintive refrain of *con él, con él...*
 
 Nothing is overwritten. Nothing is melodramatic. The structure of the song is simple too, almost deceptively simple, and because of that the ending lands with horrifying force.
 
@@ -47,9 +35,7 @@ The entire song changes shape in that moment. What first feels intimate and pers
 
 The song reminds me a little of Winston and Julia in [1984][ow]. Not because the stories are identical, but because both works capture the fragile tenderness of ordinary love existing inside a brutal political system. Small moments become sacred precisely because the surrounding world is so crushing. Te recuerdo Amanda captures that heartbreaking vida quotidiana under authoritarianism: people still fall in love, still run through the rain, still steal a few minutes together before returning to work and history and violence.
 
-It is a tiny song in some sense. Quiet. Brief. Barely more than a sketch.
-
-And yet it feels enormous.
+It is a tiny song in some sense, quiet and brief, barely more than a sketch. And yet it feels enormous.
 
 [tra]: https://www.youtube.com/watch?v=1q2_zOfuGcA
 [vj]: https://en.wikipedia.org/wiki/V%C3%ADctor_Jara
