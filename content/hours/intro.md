@@ -28,7 +28,7 @@ I'm largely following the Dreaming Spanish [method](https://www.dreaming.com/met
 
 ## How to Use This Site
 
-Most posts fall into two categories. 
+Most posts fall into two categories.
 
 The [Hours]({{< relref "/hours/_index.md" >}}) posts are milestone updates at roughly 50-hour intervals.
 
@@ -72,7 +72,7 @@ At the same time, Duolingo's listening exercises suddenly became much harder, to
 
 That's when I started looking for something else.
 
-My Googling kept bringing recommendations for Dreaming Spanish. I was hesitant at first since so many langugage learning products feel like a scam, but I eventually gave it a try. It completely changed how I approached learning.
+My Googling kept bringing recommendations for Dreaming Spanish. I was hesitant at first since so many language learning products feel like a scam, but I eventually gave it a try. It completely changed how I approached learning.
 
 I started in late December 2025 and quickly got hooked. I was doing around 90 minutes of input a day, and by March 7, 2026, I reached 152 hours.
 

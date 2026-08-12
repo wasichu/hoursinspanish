@@ -1,7 +1,7 @@
 +++
 title = "500 Hours"
 date = "2026-07-26T09:35:59-05:00"
-draft = false 
+draft = false
 
 tags = ["hours"]
 series = ["hours-log"]
@@ -28,7 +28,7 @@ hours = 500
 - Current feel: Functional but foggy in the wild; increasingly comfortable and automatic with comprehensible input
 
 
-While not a new DS level, I am now at what feels like a significant milestone: 500 hours of Spanish input. 
+While not a new DS level, I am now at what feels like a significant milestone: 500 hours of Spanish input.
 
 The last fifty hours have been different from the earlier milestones because they included my first trip to Spain[^trip-summary] since starting comprehensible input (my first trip there ever). That gave me the clearest test so far of what my Spanish actually is outside of videos, podcasts and graded readers.
 
@@ -98,7 +98,7 @@ I do not take that to mean I sound native. I definitely do not. But it probably 
 
 Of course, even pronunciation had its little ambushes. At the ice cream shop, I tried to ask about pear flavor, *pera*, and I think I rolled the r too much. That turned asking for a fruit flavor into something closer to asking for *perra*, a female dog, which is not exactly what one expects to hear in an ice cream shop (and is a vulgarity in some countries). It took a little more work to get my meaning across, but persistence worked, the employee eventually understood what I was asking about, and the rest of the interaction was fine. Embarrassing, but useful. Learning charged me one awkward interaction for a (hopefully) more persistent lesson to keep in mind for future encounters.
 
-There were also moments where I felt oddly proud of tiny things. At a family dinner in [Merodio][wp-merodio], someone asked my father in law if he served Spanish food in his restaurant in the States. I got a laugh by saying, *Claro*. That is nothing linguistically impressive, but it required understanding the setup, reading the moment and responding with the right intonation and timing. Humor in another language is much more fragile that following the gist of a conversation. Getting even a small laugh felt good.
+There were also moments where I felt oddly proud of tiny things. At a family dinner in [Merodio][wp-merodio], someone asked my father in law if he served Spanish food in his restaurant in the States. I got a laugh by saying, *Claro*. That is nothing linguistically impressive, but it required understanding the setup, reading the moment and responding with the right intonation and timing. Humor in another language is much more fragile than following the gist of a conversation. Getting even a small laugh felt good.
 
 Another small favorite moment happened in a general store in [Potes][wp-potes]. An English speaking customer was trying to ask the clerk if they had something to clean glasses. The clerk did not understand and said no. I spoke up and offered, *para limpiar las gafas*, and the clerk immediately pointed the customer to the right shelf. For a few seconds, I was not the confused foreigner. I was the bridge. That felt great.
 
@@ -110,7 +110,7 @@ Then later we switched to talking with older people who were much clearer to me.
 
 That evening captured the whole Spain experience. One person could reduce the language to static. Another group could make it feel like meaningful social connection. My Spanish level was not one fixed number. It depended on the speaker, the topic, the setting, the noise, my fatigue, and whether I could get enough context.
 
-Fatigue was a huge factor. One day I hit a wall. I had not slept well, I was motion sick, hot, sweaty, uncomfortable and irritable. My Spanish collapsed. In a parking lot where it was unclear where to pay for parking (the closest machines were broken), I went to investigate.  This took a bit of walking through much of the garage before I found a gentleman at a booth to ask if I could pay with him. I understood that I couldn't but when he tried explaining where to find the machine for payment, I just could not hear Spanish anymore. Thankfully, after my glazed over look gave me away, he switched to English and I figured out how to pay for parking.
+Fatigue was a huge factor. One day I hit a wall. I had not slept well, I was motion sick, hot, sweaty, uncomfortable and irritable. My Spanish collapsed. In a parking lot where it was unclear where to pay for parking (the closest machines were broken), I went to investigate. This took a bit of walking through much of the garage before I found a gentleman at a booth to ask if I could pay with him. I understood that I couldn't but when he tried explaining where to find the machine for payment, I just could not hear Spanish anymore. Thankfully, after my glazed over look gave me away, he switched to English and I figured out how to pay for parking.
 
 That was a strange experience. It was not exactly that I did not know the words. It was that my brain could not segment the sounds into usable meaning. I was also finding it hard to speak in English that day, which made the lesson obvious. Spanish comprehension is still expensive for me. My native language can survive exhaustion. Spanish cannot always do that yet.
 
@@ -134,7 +134,7 @@ At the same time, Spain taught me that living in a Spanish speaking country woul
 
 That became even clearer when I returned from the trip. I had about 22 hours left until 500, and I felt oddly locked in when I resumed comprehensible input. After two weeks of Spanish in the real world, slower videos felt valuable in a new way. They did not feel like stepping backward. They felt like consolidation.
 
-In Spain, I was often operating at the margins of comprehensibility. Back home, input gives me repeated, exposure without much stress to things I already sort of know. It turns shaky recognition into automatic recognition. It makes common phrases more reflexive. It helps me stop consciously decoding and start simply understanding.
+In Spain, I was often operating at the margins of comprehensibility. Back home, input gives me repeated exposure without much stress to things I already sort of know. It turns shaky recognition into automatic recognition. It makes common phrases more reflexive. It helps me stop consciously decoding and start simply understanding.
 
 I also noticed that my tolerance for missing words improved. I watched a level 75 video [getting to know Alma][ds-gtka], and while I definitely did not catch everything, I followed the gist and stayed engaged. Alma speaks fast, but she is very clear, and her speed did not bother me. The important thing was that I felt like I was still in the middle of meaning even when I missed individual words.
 

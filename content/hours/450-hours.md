@@ -32,7 +32,7 @@ At 400 hours, I remember feeling excited about how much progress I'd made, but a
 
 That feeling hasn't disappeared entirely, but something has changed. I increasingly trust the process itself. I've accumulated enough hours at this point that thinking back to even just a few months ago it's obvious how much I've already acquired. I can clearly tell that it's working which is the kind of positive feedback loop needed to keep a lengthy learning process like this moving ahead. I don't spend as much time wondering what I should be doing or constantly searching for the right video. Most days the answer is simple: listen to Spanish (in the 50 to 70 level but occasionally higher or lower for variety), read Spanish (A2 and B1 graded readers), and continue accumulating input.
 
-The progress from 400 to 450 hours also felt quieter than previous milestones. There were fewer dramatic breakthroughs and more gradual refinement. Instead of constantly discovering new abilities, I spent this period learning what kinds of Spanish feel comfortable, enjoyable, and sustainable. 
+The progress from 400 to 450 hours also felt quieter than previous milestones. There were fewer dramatic breakthroughs and more gradual refinement. Instead of constantly discovering new abilities, I spent this period learning what kinds of Spanish feel comfortable, enjoyable, and sustainable.
 
 ### Developing a Better Sense of My Current Level
 
@@ -98,7 +98,7 @@ On the off chance this is useful to someone at some point, some of my favorite s
 
 The other major development was reading.
 
-I finished [*El peor día de mi vida*][jf-epddmv] by Juan Fernández and highly recommend it. It was genuinely funny at numerous points; Juan's plots are hilariously zany with a bit of a dark humor. If you like [his YouTube videos][yt-ecj] you'll love this book. 
+I finished [*El peor día de mi vida*][jf-epddmv] by Juan Fernández and highly recommend it. It was genuinely funny at numerous points; Juan's plots are hilariously zany with a bit of a dark humor. If you like [his YouTube videos][yt-ecj] you'll love this book.
 
 At a B1 level, the book was generally accessible, but every couple of pages there would be a sentence that forced me to slow down and think.
 
@@ -147,7 +147,7 @@ The important part is that reading now feels like a permanent part of my languag
 
 One of the most satisfying moments happened completely by accident.
 
-While visiting [Lakeshore][ls], while my wife and daughter shopped, I picked up several bilingual children's books (they were in English and Spanish) and started reading them. 
+While visiting [Lakeshore][ls], while my wife and daughter shopped, I picked up several bilingual children's books (they were in English and Spanish) and started reading them.
 
 I had done this before six months ago when I went to Lakeshore for Christmas presents. At that point I was still doing Duolingo and on the cusp of starting comprehensible input. As you might imagine, I understood almost nothing.
 
@@ -159,7 +159,7 @@ The book felt comfortable and straightforward. It was exciting to think back and
 
 It might sound silly to be proud of a first grade reading level but it's actually surprisingly involved. Moreover, my language level isn't even at the level of my first grader yet. Native children at that age possess a much larger vocabulary, stronger grammar intuition, and vastly better speaking ability than I do.
 
-But it felt very motivating to comfortably comprehend childrens books that once felt nearly inscrutable.
+But it felt very motivating to comfortably comprehend children's books that once felt nearly inscrutable.
 
 ### Spanish Is Becoming a Source of Discovery
 

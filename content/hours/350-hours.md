@@ -3,7 +3,7 @@ title = "350 Hours"
 date = "2026-05-20T10:21:19-05:00"
 draft = false
 
-tags = ["hours","reading","pasapalbra","immersion"]
+tags = ["hours","reading","pasapalabra","immersion"]
 series = ["hours-log"]
 
 summary = "A lot has happened since 300 hours. There's still a long way to go but also some notable progress."
@@ -30,7 +30,7 @@ hours = 350
 
 One of the biggest changes since 300 hours is that intermediate content increasingly feels like my default environment. Beginner content now makes up maybe 5% of my input whereas around 150 hours it was closer to 40 or 50 percent. I still occasionally enjoy beginner videos because hearing common verbs slowly and clearly can be useful and sometimes [the content][ds-sss] is just well done, but overall I increasingly find beginner pacing frustratingly slow and insufficiently dense verbally.
 
-A lot of the improvement has not just been understanding more words, but becoming better at quickly recognizing and dialing into the meaning of common verbs like **salir**, **encontrar**, **pasar**, **saber**, and staying persistent and calm when something is ambiguous or unknown. Earlier on, if I missed a sentence or phrase, especially in fast speech, I would focus too much on the fact that I just missed a bunch of details and lose my hold on the meaning. Now I increasingly notice that when I lose the thread, I don.t panic or lose focus. I can generally recover a few seconds later as my understanding stabilizes again after further discussion.
+A lot of the improvement has not just been understanding more words, but becoming better at quickly recognizing and dialing into the meaning of common verbs like **salir**, **encontrar**, **pasar**, **saber**, and staying persistent and calm when something is ambiguous or unknown. Earlier on, if I missed a sentence or phrase, especially in fast speech, I would focus too much on the fact that I just missed a bunch of details and lose my hold on the meaning. Now I increasingly notice that when I lose the thread, I don't panic or lose focus. I can generally recover a few seconds later as my understanding stabilizes again after further discussion.
 
 One thing I'm noticing with [street interviews][ds-bsi] is how much comprehension depends on understanding the framing of the conversation. If I understand the question being asked, the possible range of responses becomes much narrower, which helps me stay attached to the meaning even when people speak quickly or unclearly. More abstract topics like religion are still harder because people go off on tangents and add unexpected details.
 
@@ -56,7 +56,7 @@ Music has also become more often accessible. I still struggle heavily with lyric
 
 Reading has improved quite a bit too, though not because I suddenly started understanding every word. In fact, one of the most important changes happened after I consciously stopped obsessing over understanding every unknown and allowed myself to stay in the flow of the story instead. I was reminded of this in the intro to an [Olly Richards book][orir] and it helped reorient me.
 
-Earlier on, especially after finishing one graded reader, I noticed myself getting increasingly perfectionistic and mentally derailed by unknown vocabulary. I would interrupt the flow trying to pin down exact meanings and ironically end up understanding less overall because I became detached from the broader details of the story. It put a break on my understanding and enjoyment of the narrative by excessively slowing me down. 
+Earlier on, especially after finishing one graded reader, I noticed myself getting increasingly perfectionistic and mentally derailed by unknown vocabulary. I would interrupt the flow trying to pin down exact meanings and ironically end up understanding less overall because I became detached from the broader details of the story. It put the brakes on my understanding and enjoyment of the narrative by excessively slowing me down.
 
 Once I consciously relaxed that impulse, reading became much more enjoyable and sustainable. I increasingly trust that context will often clarify meaning, repeated exposure matters more than immediate mastery and understanding the overall idea is more important than perfect lexical precision.
 
@@ -77,11 +77,11 @@ Street interviews remain uneven too. Sometimes I can follow large portions of th
 
 Abstract content is still harder than concrete content. Conversations about philosophy, religion, self-help, or introspection often feel much more difficult than travel, food, family dynamics, or daily routines because the vocabulary is more specialized and the range of topics expands significantly so it's much harder to predict.
 
-I got a [self-help book in Spanish][dnp] based on a recommendation by Sophia in [this joint video][ds-mas] with Michelle and Sophia[^dios]. Sophia said the book was good for learners but it's far more difficult than the couple of graded readers I've read so far so I'm going to take my time with it and come back to it more later. It reminds me that I still have a long way to go with Spanish even though progress is evident.
+I got a [self-help book in Spanish][dnp] based on a recommendation by Sophia in [this joint video][ds-mas] with Michelle and Sophia[^dios]. Sophia said the book was good for learners, but it's far more difficult than the couple of graded readers I've read so far. I'm going to take my time with it and come back to it later. It reminds me that I still have a long way to go with Spanish even though progress is evident.
 
 I also still regularly have the feeling that I do not know enough words. Sometimes I know I have encountered a word before, maybe for something ordinary like basil, apricot, zipper, or hanger, but when I try to consciously retrieve it, it simply is not there yet.
 
-Speaking is also still awkward and limited. I increasingly notice that after speaking attempts, I become overly focused on output and start trying to formulate Spanish in my head while listening to videos. I have to consciously remind myself to relax and return to listening mode instead of turning every input session into covert rehearsal practice.
+Speaking is also still awkward and limited. I increasingly notice that after trying to speak Spanish, I become overly focused on output and start trying to formulate Spanish in my head while listening to videos. I have to consciously remind myself to relax and return to listening mode instead of turning every input session into a game of "how would I respond or say that in Spanish?"
 
 I also realized that I tend to overpredict in conversation even in English. Spanish has made me much more aware of how easy it is to stop truly listening and instead start mentally preparing responses or projecting where the conversation is going. I increasingly have to remind myself to relax and let meaning unfold instead of forcing immediate certainty.
 
@@ -166,4 +166,4 @@ I also increasingly notice that Spanish is leaking into daily life. I occasional
 [lv]: https://bime.org/en/resource/la-valenti/fcf01b29-d6f7-bc1e-5d5e-5fe7631871c2
 [wpp]: https://en.wikipedia.org/wiki/Pasapalabra
 
-[^dios]: Although the book's entitled **Dios Nunca Parpadea**, Sophia claimed it wasn't religious. I've read three chapters so far and it has mentioned god in every one. It's not especially preachy and the lessons are generally applicable in a secular context but the text is firmly rooted in religious belief. 
+[^dios]: Although the book's entitled **Dios Nunca Parpadea**, Sophia claimed it wasn't religious. I've read three chapters so far and it has mentioned god in every one. It's not especially preachy and the lessons are generally applicable in a secular context but the text is firmly rooted in religious belief.
