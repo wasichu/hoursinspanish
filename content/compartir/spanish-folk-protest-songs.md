@@ -2,7 +2,7 @@
 title: 'Soundtrack for Rebellion: Folk Protest Songs'
 date: '2026-08-15T05:37:13-05:00'
 draft: false
-tags: ["Spain", "Franco", "protest", "folk"]
+tags: ["music", "folk", "protest music", "spain"]
 summary: "An album of anti-fascist folk songs surreptitiously recorded under Franco."
 post_kind: "compartir"
 ---

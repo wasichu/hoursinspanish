@@ -2,7 +2,7 @@
 title: "Writing Songs in a Language I Don't Know"
 date: '2026-05-03T10:46:03-05:00'
 draft: false
-tags: []
+tags: ["music", "songwriting", "ai"]
 summary: "Using generative AI as a creative supplement to comprehensible input"
 post_kind: "compartir"
 ---

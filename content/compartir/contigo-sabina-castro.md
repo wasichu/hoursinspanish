@@ -2,7 +2,7 @@
 title: 'Contigo: Brilliant Songwriting and Cover'
 date: '2026-05-10T08:50:06-05:00'
 draft: false
-tags: ["songs", "piano", "Castro", "Valeria", "Contigo", "Sabina", "Joaquín"]
+tags: ["music", "songwriting", "covers"]
 summary: "Cannot stop listening to this Joaquín Sabina cover by Valeria Contigo. Some of the best songwriting I've ever come across."
 post_kind: "compartir"
 ---

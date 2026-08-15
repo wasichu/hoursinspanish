@@ -2,7 +2,7 @@
 title: 'Victor Jara Folk Tragedy'
 date: '2026-05-10T08:15:30-05:00'
 draft: false
-tags: ["music", "folk", "Jara", "Chile"]
+tags: ["music", "folk", "protest music", "chile"]
 summary: "Sharing the well known Victor Jara song Te recuerdo Amanda"
 post_kind: "compartir"
 ---

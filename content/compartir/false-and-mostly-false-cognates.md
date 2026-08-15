@@ -2,7 +2,7 @@
 title: 'False Cognates and False Friends'
 date: '2026-05-27T18:40:09-05:00'
 draft: false
-tags: ["cognates", "vocabulary"]
+tags: ["vocabulary", "false friends"]
 summary: "Ten Spanish words that felt familiar just long enough to mislead me."
 post_kind: "compartir"
 ---

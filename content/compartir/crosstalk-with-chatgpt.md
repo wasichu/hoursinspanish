@@ -2,7 +2,7 @@
 title: 'Crosstalk With ChatGPT'
 date: '2026-04-12T10:46:47-05:00'
 draft: false
-tags: ["crosstalk", "llm", "chatgpt"]
+tags: ["crosstalk", "conversation practice", "ai"]
 summary: "The prompt I use for crosstalk practice with ChatGPT voice mode" 
 post_kind: "compartir"
 ---
