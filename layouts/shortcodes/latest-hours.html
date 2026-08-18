@@ -1,0 +1,5 @@
+{{- $hoursPages := where site.RegularPages "Section" "hours" -}}
+{{- $hoursPages = where $hoursPages "Params.hours" "ne" nil -}}
+{{- with index (sort $hoursPages "Params.hours" "desc") 0 -}}
+  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+{{- end -}}

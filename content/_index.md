@@ -10,6 +10,7 @@ Follow along as I put in more and more hours in Spanish.
 
 - ⏱️ [Introduction]({{< relref "/hours/intro.md" >}})
 - 📍 [200 Hours]({{< relref "/hours/200-hours.md" >}}) (first real progress update)
+- 🆕 {{< latest-hours >}} (latest progress update)
 
 ---
 
