@@ -12,7 +12,9 @@ One of my favorite parts of acquiring Spanish has been collecting idioms, saying
 
 I mean the kinds of phrases that Spanish speakers use all the time but that often don't quite survive literal translation: *llorar a lágrima viva*[^lagrima-viva], *tener la mosca detrás de la oreja*[^mosca], *estar hecho polvo*[^polvo], *irse el santo al cielo*[^santo]. Some are funny, some are strange, and some are almost tiny poems in themselves.
 
-For a while now, I've been adding to a running collection whenever I encounter one I like in books, videos, podcasts, or conversations. I've accumulated a couple dozen or so by now. I don't really study them as vocabulary. Mostly, I just enjoy noticing and collecting them.
+For a while now, I've been adding to a running collection whenever I encounter one I like in books, videos, podcasts, or conversations. I've accumulated a couple dozen by now. I don't really study them as vocabulary. Mostly, I just enjoy noticing and collecting them.
+
+Taken together, the collection has started to feel like a little private museum. Each phrase is interesting on its own, but putting them next to one another creates connections I didn't notice when I first encountered them.
 
 Recently I decided to try doing something fun with them: write a song.
 
@@ -64,7 +66,7 @@ When looking through idioms to use, I realized that the ones I chose have a surp
 
 They're all a little fatalistic. They're all about trying to accept, or at least note, that everything's gone wrong.
 
-They're things to reach for instinctively when verbal clarity and expressiveness are absent.
+That may be part of what makes idioms useful: they're ready-made language for moments when plain description feels inadequate. Here, each one lets the narrator acknowledge failure without ever having to explain it.
 
 **Lo hecho, hecho está** — what's done is done.
 
@@ -113,6 +115,8 @@ I wanted to see what happened when some of these phrases I'd been encountering f
 At first, an idiom is something I hear in Spanish and think: *that's a great phrase*. I save it because I figure it'll be useful someday.
 
 Then, eventually, one of those phrases ends up inside something I've made.
+
+This is the finished song:
 
 {{< suno "66f6af86-0fd5-4427-b32d-572a6f2f91d6" >}}
 
