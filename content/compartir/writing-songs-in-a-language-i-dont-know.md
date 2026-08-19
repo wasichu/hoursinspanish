@@ -53,6 +53,8 @@ Writing this in Spanish forced me away from precision and toward feeling. I lean
 
 And that made the song better.
 
+{{< suno "7d41b37e-8972-4b59-9ca0-292418a85ac1" >}}
+
 ## Insonorización
 
 [This][suno-is] was the most recent Spanish song I worked on.
@@ -66,6 +68,8 @@ The song expanded into something broader. It became about addiction and compulsi
 *Insonorización* became about insulation, but not peaceful insulation. More like being sealed inside a system that dulls everything except the marginally less satisfying next hit of stimulation.
 
 Compared to *Las Estrellas de Mallorca*, this one is tighter and more direct, with a more claustrophobic feeling.
+
+{{< suno "9e49e9ed-798d-4af5-9715-6b7cd7e5d85f" >}}
 
 ## Why Writing in Spanish Feels Different
 
