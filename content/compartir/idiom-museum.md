@@ -30,17 +30,23 @@ That became the starting point for the verses.
 
 Rather than tell a clear story, I wanted to create a house that seems to be waiting for people who never come back. The domestic objects gradually take on lives of their own:
 
-> La casa duerme bajo el agua,
-> la lámpara vela el lugar,
-> mi sombra se cuelga de un cable,
-> cada tarde vuelve a pesar.
+> La casa duerme bajo el agua
+>
+> la lámpara vela el lugar
+>
+> mi sombra se cuelga de un cable
+>
+> cada tarde vuelve a pesar
 
 And later:
 
-> Las llaves roncan en el plato,
-> las flores pierden el color,
-> dimos el regreso por sentado,
-> y el polvo aprendió el comedor.
+> Las llaves roncan en el plato
+>
+> las flores pierden el color
+>
+> dimos el regreso por sentado
+>
+> y el polvo aprendió el comedor
 
 I don't know exactly what happened in this house other than something vaguely awful and destructive, and I prefer it that way.
 
@@ -52,15 +58,21 @@ The chorus works very differently.
 
 The verses are slower and leave space around the images. Then the chorus arrives and the idioms start coming almost rapid-fire:
 
-> Lo hecho, hecho está,
-> mi gozo, en un pozo,
-> como quien oye llover,
-> y nosotros mirando el destrozo.
+> Lo hecho, hecho está
+> 
+> mi gozo, en un pozo
 >
-> Se hizo lo que se pudo,
-> salió por la culata,
-> discutiendo por nada,
-> el arroz se nos pasaba.
+> como quien oye llover
+>
+> mirando el destrozo
+>
+> Se hizo lo que se pudo
+>
+> salió por la culata
+>
+> discutiendo por nada
+>
+> el arroz se nos pasaba
 
 When looking through idioms to use, I realized that the ones I chose have a surprisingly consistent mood.
 
