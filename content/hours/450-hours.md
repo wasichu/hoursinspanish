@@ -19,7 +19,7 @@ summary = "Notable but quieter progress compared to months ago with a better sen
 
 - Hours: 450
 - Main input: Dreaming Spanish
-- Daily input: ~90 minutes
+- Daily input: ~2h 30m
 - Main listening: Longer podcasts, discussions, and series
 - Main reading: A2 and B1 graded readers
 

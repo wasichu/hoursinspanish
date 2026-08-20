@@ -21,7 +21,7 @@ hours = 550
 ## Snapshot
 
 * Main input: Dreaming Spanish and YouTube
-* Daily input: ~90 minutes
+* Daily input: ~2h 30m
 * Reading level: B2 graded readers
 * Words Read: ~251k (across 14 graded readers)
 * [Preply][preply] placement test: B2.1 / Upper Intermediate

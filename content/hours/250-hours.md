@@ -15,7 +15,7 @@ hours = 250
 
 - Hours: 250
 - Main input: Dreaming Spanish
-- Daily input: ~90 minutes
+- Daily input: ~3h
 
 ## What's Improved
 

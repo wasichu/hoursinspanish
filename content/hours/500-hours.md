@@ -21,7 +21,7 @@ hours = 500
 
 - Hours: 500
 - Main input: Dreaming Spanish
-- Daily input: ~90 minutes when in my normal routine
+- Daily input: ~1h 30m
 - Reading: 11 graded readers completed, about 207,500+ words tracked
 - Current reading level: B1 feels smooth; considering trying B2 soon
 - Recent milestone: Two weeks in Spain using Spanish in real situations

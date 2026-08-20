@@ -21,7 +21,7 @@ hours = 350
 
 - Hours: 350
 - Main input: Dreaming Spanish (DS)
-- Daily input: ~90 minutes
+- Daily input: ~4h 45m
 - Reading: Mostly graded readers (I've finished [these][ori] [two][asss] and am now working on [this one][mq]) plus some more difficult [material][dnp]
 - Current DS difficulty range: Mostly intermediate content, roughly between 50 and 65, often up to ~75
 

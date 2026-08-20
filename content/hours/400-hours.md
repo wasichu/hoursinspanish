@@ -21,7 +21,7 @@ hours = 400
 
 - Hours: 400
 - Main input: Dreaming Spanish
-- Daily input: ~90 minutes
+- Daily input: ~3h 30m
 - Additional input: [Español con Juan][ecj], [My Spanish Flow][msf], graded readers (working on [these][gr-a21] [two][gr-a22] A2 level readers right now)
 - Current feeling: less easily thrown off by difficult content, more able to stay engaged despite imperfect comprehension
 - Context: final update before my trip to Spain
