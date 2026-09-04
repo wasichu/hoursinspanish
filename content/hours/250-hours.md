@@ -13,7 +13,6 @@ hours = 250
 
 ## Snapshot
 
-- Hours: 250
 - Main input: Dreaming Spanish
 - Daily input: ~3h
 

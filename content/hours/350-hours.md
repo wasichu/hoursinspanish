@@ -19,7 +19,6 @@ hours = 350
 
 ## Snapshot
 
-- Hours: 350
 - Main input: Dreaming Spanish (DS)
 - Daily input: ~4h 45m
 - Reading: Mostly graded readers (I've finished [these][ori] [two][asss] and am now working on [this one][mq]) plus some more difficult [material][dnp]

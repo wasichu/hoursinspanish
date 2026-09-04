@@ -13,7 +13,8 @@ hours = 300
 
 ## Snapshot
 
-- Hours: 300. This was originally my hours goal before going to Spain in July, so it feels surreal to already be here with more than a month still left before the trip. By the time I actually arrive in Spain, I will probably be somewhere around 350 to 375 hours.
+This was originally my hours goal before going to Spain in July, so it feels surreal to already be here with more than a month still left before the trip. By the time I actually arrive in Spain, I will probably be somewhere around 350 to 375 hours.
+
 - Main input: Dreaming Spanish
 - Daily input: ~1h 45m
 - Current level: Mostly intermediate content, typically between 40 and 65 using the DS difficulty rating

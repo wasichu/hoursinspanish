@@ -21,7 +21,6 @@ hours = {{ $hours }}
 
 ## Snapshot
 
-- Hours: {{ $hours }}
 - Main input: Dreaming Spanish
 - Daily input: ~90 minutes
 

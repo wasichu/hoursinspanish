@@ -13,7 +13,6 @@ hours = 200
 
 ## Snapshot
 
-- Hours: ~209
 - Main input: Dreaming Spanish
 - Daily input: ~90 minutes
 

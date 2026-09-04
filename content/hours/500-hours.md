@@ -19,7 +19,6 @@ hours = 500
 
 ## Snapshot
 
-- Hours: 500
 - Main input: Dreaming Spanish
 - Daily input: ~1h 30m
 - Reading: 11 graded readers completed, about 207,500+ words tracked
