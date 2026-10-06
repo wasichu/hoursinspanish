@@ -18,6 +18,14 @@ Each post documents what’s improving, what’s still difficult, and how compre
 
 ## Local development
 
+Install Hugo's extended edition (on macOS: `brew install hugo`). After
+cloning, download the pinned theme submodule:
+
+    git submodule update --init --recursive
+
+For a fresh clone, `git clone --recurse-submodules` downloads the theme
+automatically.
+
 Run:
 
     hugo server -D
