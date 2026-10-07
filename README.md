@@ -18,8 +18,13 @@ Each post documents what’s improving, what’s still difficult, and how compre
 
 ## Local development
 
-Install Hugo's extended edition (on macOS: `brew install hugo`). After
-cloning, download the pinned theme submodule:
+Install [mise](https://mise.jdx.dev/) (on macOS: `brew install mise`). After
+cloning, trust the repo configuration and install the pinned Hugo version:
+
+    mise trust
+    mise install
+
+Download the pinned theme submodule:
 
     git submodule update --init --recursive
 
@@ -28,9 +33,13 @@ automatically.
 
 Run:
 
-    hugo server -D
+    mise exec -- hugo server -D
 
 Then open http://localhost:1313
+
+The Hugo version is pinned in `mise.toml`. Keep Cloudflare Pages'
+`HUGO_VERSION` environment variable aligned with this version for production
+and preview builds.
 
 ## Git hooks
 
