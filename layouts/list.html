@@ -26,7 +26,10 @@
       {{ else if .Summary }}
         <p class="list-description">{{ .Summary }}</p>
       {{ end }}
-      {{ partial "list-count.html" . }}
+      <div class="list-count" aria-live="polite">
+        <span id="filtered-count">{{ len $listPages }}</span>
+        {{ if eq (len $listPages) 1 }}{{ i18n "postSingular" }}{{ else }}{{ i18n "postPlural" }}{{ end }}
+      </div>
     </header>
 
     {{ if .Content }}
@@ -104,7 +107,7 @@
     </div>
 
     <div class="posts-list" id="posts-container">
-      {{ range .Paginator.Pages }}
+      {{ range $listPages }}
         {{ $dataTags := "" }}
         {{ if .Params.tags }}
           {{ $dataTags = delimit .Params.tags "," }}
@@ -118,7 +121,6 @@
       {{ end }}
     </div>
 
-    {{ partial "pagination.html" . }}
     {{ partial "back-to-home.html" . }}
   </div>
 {{ end }}
