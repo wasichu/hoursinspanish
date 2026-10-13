@@ -8,15 +8,15 @@ Follow along as I put in more and more hours in Spanish.
 
 ## Start Here
 
-- ⏱️ [Introduction]({{< relref "/hours/intro.md" >}})
-- 📍 [200 Hours]({{< relref "/hours/200-hours.md" >}}) (first real progress update)
-- 🆕 {{< latest-hours >}} (latest progress update)
+- ⏱️ [Introduction]({{< relref "/hours/intro.md" >}}) — why and how I'm learning Spanish
+- 📍 [200 Hours]({{< relref "/hours/200-hours.md" >}}) — first real progress update
+- 🆕 {{< latest-hours >}} — latest progress update
 
 ---
 
 ## What You'll Find
 
-- [**Hours posts**]({{< relref "/hours/" >}}) — progress updates every ~50 hours
-- [**Compartir posts**]({{< relref "/compartir/" >}}) — things I’ve found interesting along the way
+- ⏳ [**Hours posts**]({{< relref "/hours/" >}}) — progress updates every ~50 hours
+- 💡 [**Compartir posts**]({{< relref "/compartir/" >}}) — things I’ve found interesting along the way
 
 ---
