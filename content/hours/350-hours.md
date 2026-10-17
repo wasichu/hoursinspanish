@@ -3,7 +3,7 @@ title = "350 Hours"
 date = "2026-05-20T10:21:19-05:00"
 draft = false
 
-tags = ["hours","reading","pasapalabra","immersion"]
+tags = ["hours","reading","pasapalabra","immersion", "speaking"]
 series = ["hours-log"]
 
 summary = "A lot has happened since 300 hours. There's still a long way to go but also some notable progress."

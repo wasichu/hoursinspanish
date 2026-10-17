@@ -3,7 +3,7 @@ title = "700 Hours"
 date = "2026-10-17T07:20:35-05:00"
 draft = false
 
-tags = ["hours", "reading", "crosstalk", "ai", "music"]
+tags = ["hours", "reading", "crosstalk", "ai", "music", "speaking"]
 series = ["hours-log"]
 
 summary = "An hour-long conversation I couldn't handle at 400 hours is now within reach, reading Spanish literature feels more natural, and I've started speaking Spanish for entire lessons. Listening still takes focus and speaking is clunky, but more of the language keeps opening up."

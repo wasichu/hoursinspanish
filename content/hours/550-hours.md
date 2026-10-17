@@ -3,7 +3,7 @@ title = "550 Hours"
 date = "2026-08-14T12:29:54-05:00"
 draft = false
 
-tags = ["hours"]
+tags = ["hours", "speaking"]
 series = ["hours-log"]
 
 summary = "Advanced learner content and some native material is becoming much more accessible even though comprehension is frequently still uneven."

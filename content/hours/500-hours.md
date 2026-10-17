@@ -3,7 +3,7 @@ title = "500 Hours"
 date = "2026-07-26T09:35:59-05:00"
 draft = false
 
-tags = ["hours"]
+tags = ["hours", "speaking"]
 series = ["hours-log"]
 
 summary = "Speaking Spanish in Spain was successful but foggy. Comprehension gains keep stacking from steady input but lots of gaps remain."

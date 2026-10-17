@@ -3,7 +3,7 @@ title = "650 Hours"
 date = "2026-09-25T13:39:42-05:00"
 draft = false
 
-tags = ["hours", "reading", "crosstalk", "chess"]
+tags = ["hours", "reading", "crosstalk", "chess", "speaking"]
 series = ["hours-log"]
 
 summary = "Books and native content are becoming more rewarding. I'm spending less time measuring comprehension and more time finding things that hold my attention."

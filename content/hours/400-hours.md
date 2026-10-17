@@ -3,7 +3,7 @@ title = "400 Hours"
 date = "2026-06-04T05:30:07-05:00"
 draft = false
 
-tags = ["hours"]
+tags = ["hours", "speaking"]
 series = ["hours-log"]
 
 summary = "Progress feels increasingly uneven on the surface but increasingly stable underneath."
