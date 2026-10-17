@@ -13,7 +13,7 @@ Each post documents what’s improving, what’s still difficult, and how compre
 
 - [Hugo][h] (static site generator) with the [mana][m] theme
 - Deployed via [Cloudflare Pages][cfp]
-- Reader comments powered by [Cusdis][cusdis]
+- Reader comments powered by [CommentBox][commentbox]
 - Quiet footer links for support and per-page GitHub source
 
 ## Local development
@@ -58,6 +58,17 @@ The Hugo version is pinned in `mise.toml`. Keep Cloudflare Pages'
 `HUGO_VERSION` environment variable aligned with this version for production
 and preview builds.
 
+## Comments
+
+Comments use CommentBox. Configure `params.comments.commentbox` in `hugo.toml`
+with `enabled = true` and the project ID from the CommentBox dashboard.
+Anonymous posting and moderation are configured in that dashboard.
+
+The embed uses each page's URL and the `commentbox` anchor to identify its
+thread, ignoring query parameters and existing anchors. Localhost previews have
+separate threads from the live site. Colors match the site theme at page load.
+If loading fails, readers see an unavailable message with a retry button.
+
 ## Git hooks
 
 This repo uses a versioned pre-commit hook in `scripts/git-hooks/`.
@@ -74,7 +85,7 @@ The current hook runs an Elixir script that prevents committing staged
 - `content/compartir/` → shared reflections, ideas, media and experiments  
 - `scripts/check_hours_drafts.exs` → pre-commit draft check for hours posts
 - `scripts/git-hooks/pre-commit` → versioned Git pre-commit hook
-- `layouts/_partials/comments.html` → Cusdis comments embed
+- `layouts/_partials/comments.html` → CommentBox comments embed
 - `layouts/_partials/footer.html` → footer support and source links
 - `assets/css/custom.css` → site-specific theme overrides
 
@@ -86,7 +97,7 @@ Active project. Ongoing updates as hours accumulate.
 [h]: https://gohugo.io/
 [m]: https://themes.gohugo.io/themes/hugo-mana-theme/
 [cfp]: https://developers.cloudflare.com/pages/framework-guides/deploy-a-hugo-site/#deploy-with-cloudflare-pages
-[cusdis]: https://cusdis.com/
+[commentbox]: https://commentbox.io/
 
 ## Theme overrides
 

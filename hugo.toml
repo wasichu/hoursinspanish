@@ -25,10 +25,9 @@ enableRobotsTXT = true
 [params]
   description = "A running log of acquiring Spanish through comprehensible input: what improves, what needs improvement, and how it actually feels over time."
 
-  [params.comments.cusdis]
+  [params.comments.commentbox]
     enabled = true
-    host = "https://cusdis.com"
-    appId = "65d0480a-0912-4ef4-9b83-1b7ab2ff6392"
+    projectId = "5683999439585280-proj"
 
   [params.support]
     url = "https://buymeacoffee.com/iamwasichux"
