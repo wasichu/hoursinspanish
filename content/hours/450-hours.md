@@ -3,7 +3,7 @@ title = "450 Hours"
 date = "2026-06-23T09:49:27-05:00"
 draft = false
 
-tags = ["hours"]
+tags = ["hours", "reading", "music", "vocabulary"]
 series = ["hours-log"]
 
 summary = "Notable but quieter progress compared to months ago with a better sense for the input level that will get me to the next level."

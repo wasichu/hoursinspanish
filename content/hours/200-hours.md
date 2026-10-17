@@ -3,7 +3,7 @@ title = "200 Hours"
 date = "2026-03-25"
 draft = false
 
-tags = ["hours"]
+tags = ["hours", "vocabulary", "crosstalk", "ai"]
 series = ["hours-log"]
 
 summary = "Progress, challenges, and observations after ~200 hours of comprehensible input."

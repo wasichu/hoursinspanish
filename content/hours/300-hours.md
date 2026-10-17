@@ -3,7 +3,7 @@ title = "300 Hours"
 date = "2026-05-09T16:24:03-05:00"
 draft = false
 
-tags = ["hours"]
+tags = ["hours", "reading", "crosstalk", "ai"]
 series = ["hours-log"]
 
 summary = "At 300 hours, Spanish increasingly feels less like something I decode and more like something I experience."

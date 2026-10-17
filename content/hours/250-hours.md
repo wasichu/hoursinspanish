@@ -3,7 +3,7 @@ title = "250 Hours"
 date = "2026-04-10T00:00:00-05:00"
 draft = false
 
-tags = ["hours"]
+tags = ["hours", "vocabulary"]
 series = ["hours-log"]
 
 summary = "At 250 hours, progress feels quieter. I can follow more long form Spanish, tolerate ambiguity better, and trust repeated exposure more, even if vocabulary gaps and tricky verbs still get in the way."
