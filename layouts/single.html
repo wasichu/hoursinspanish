@@ -19,6 +19,9 @@
         {{ .Content }}
       </div>
 
+      {{ $copyQuotes := resources.Get "js/copy-quotes.js" | minify | fingerprint }}
+      <script src="{{ $copyQuotes.RelPermalink }}" defer></script>
+
       {{ if .Params.tags }}
         <footer class="post-footer">
           <div class="post-tags-footer">

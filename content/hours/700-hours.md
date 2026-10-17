@@ -293,7 +293,7 @@ Seven hundred hours is a lot. And I'm excited to keep going.
 
 [^vocabulary-size]: [Brysbaert and colleagues (2016)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01116/full) estimate that an average 20-year-old native English speaker recognizes about 42,000 words, counting forms like *walk*, *walks*, and *walked* as one word. That estimate comes from asking people which words they recognize, rather than testing whether they can explain or use each one. So the total can include words that look familiar even when their meanings aren't clear. The authors suggest that active vocabulary, or the words people can use themselves, is roughly half as large or smaller, about 21,000 words or fewer, but their experiment didn't measure that directly.
 
-[^conversation-prompt]: This is the prompt I use to guide my Spanish conversation practice with ChatGPT.
+[^conversation-prompt]: This is the prompt I use to guide my Spanish conversation practice with ChatGPT:
 
     > Quiero practicar conversación en español contigo.
     >
