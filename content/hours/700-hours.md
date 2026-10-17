@@ -166,7 +166,7 @@ I'm also finding that I mostly want to listen to native Spanish speakers, unless
 
 I've been using ChatGPT voice chat for occasional conversations, with a prompt to guide the practice.[^conversation-prompt] Along with the Preply sessions, that's more output than I've been doing before.
 
-The voice conversations can be frustratingly shallow, though, and I've had them repeatedly make things up. I tried using correction notes my teacher had provided after a Spanish-speaking lesson as the basis for practice. The voice model kept inventing questions that weren't in the document. Doing the same thing in text chat worked perfectly. Voice chat is useful for getting me talking, but that experience was frustrating when I wanted to work on the actual corrections from my lesson.
+The voice conversations can be frustratingly shallow, though, and I've had them repeatedly make things up (this is with the Standard and Live versions of the model). I tried using correction notes my Preply teacher had provided after a Spanish-speaking lesson as the basis for practice. The voice model kept inventing questions that weren't in the document. Doing the same thing in text chat worked perfectly. Voice chat is useful for getting me talking, but that experience was frustrating when I wanted to work on the actual corrections from my lesson. Voice chat is a fantastic interface, but I haven't always found the conversation subjectively satisfying, as is often the case for me with chatbots.
 
 *Tengo ganas de hablar español.*
 
