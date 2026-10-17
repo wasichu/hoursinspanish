@@ -260,28 +260,22 @@
 }
 
 #commentbox {
-  min-height: 360px;
-  padding: 1rem;
-  background-color: rgba(248, 250, 252, 0.96);
-  border: 1px solid var(--border-color);
-  border-radius: 0.5rem;
+  padding: clamp(1rem, 3vw, 1.5rem);
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--glass-border);
+  border-radius: 0.75rem;
   box-shadow: var(--shadow-sm);
 }
 
 #commentbox iframe {
   display: block;
-  min-height: 360px;
+  width: 100%;
+  border: 0;
   background-color: transparent;
 }
 
-[data-theme="dark"] #commentbox {
-  background-color: rgba(15, 23, 42, 0.72);
-  border-color: rgba(219, 171, 255, 0.16);
-  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.18);
-}
-
-[data-theme="dark"] #commentbox iframe {
-  border-radius: 0.35rem;
+#commentbox:focus-within {
+  border-color: var(--accent-primary);
 }
 
 .footer-text {

@@ -1,7 +1,6 @@
 {{ with site.Params.comments.commentbox }}
   {{ if and .enabled .projectId }}
-    <section class="comments-section" aria-labelledby="comments-title">
-      <h2 id="comments-title" class="comments-title">Comments</h2>
+    <section class="comments-section" aria-label="Comments">
       <div class="comments-loading" role="status">
         <p id="comments-status">Loading comments…</p>
         <button type="button" id="comments-retry" hidden>Retry loading comments</button>

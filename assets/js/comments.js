@@ -23,7 +23,7 @@
     const colors = getComputedStyle(document.documentElement);
     try {
       cleanup = window.commentBox(thread.dataset.projectId, {
-        backgroundColor: colors.getPropertyValue('--bg-primary').trim(),
+        backgroundColor: 'transparent',
         textColor: colors.getPropertyValue('--text-primary').trim(),
         subtextColor: colors.getPropertyValue('--text-secondary').trim(),
         onCommentCount() {
