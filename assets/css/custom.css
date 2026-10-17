@@ -95,6 +95,27 @@
   padding-left: 0.3em;
 }
 
+.post-content-main .footnotes blockquote.blockquote-regular {
+  font-family: var(--font-body);
+  font-size: 1em;
+  font-style: normal;
+  line-height: inherit;
+  letter-spacing: 0;
+}
+
+.post-content-main .footnotes blockquote.blockquote-regular p {
+  margin-bottom: 0.85em;
+}
+
+.post-content-main .footnotes blockquote.blockquote-regular > :last-child,
+.post-content-main .footnotes blockquote.blockquote-regular li > p {
+  margin-bottom: 0;
+}
+
+.post-content-main .footnotes blockquote.blockquote-regular li + li {
+  margin-top: 0.65em;
+}
+
 .tool-links {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));

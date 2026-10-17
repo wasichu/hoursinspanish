@@ -90,7 +90,7 @@ I could read it smoothly for the most part. There were still unfamiliar words, p
 
 That let me stay in the flow and go back to investigate words as needed. It's been so refreshing to move beyond graded readers into literature like this.
 
-I also learned something fascinating about [the book's bilingual history][cajas-history]. The collection appeared first in English as *The Circuit*, but the title story began in Spanish before Jiménez translated it into English. And *Cajas de cartón* is [his own Spanish translation of the collection][jimenez-biography]. That's much more interesting than a simple English-original, Spanish-translation story.
+I also learned something fascinating about the book's bilingual history. The collection appeared first in English as *The Circuit*, but the title story began in Spanish before Jiménez translated it into English. And *Cajas de cartón* is his own Spanish translation of the collection.[^jimenez-background] That's much more interesting than a simple English-original, Spanish-translation story.
 
 The ending was devastating. I can see why there's more to his story. I might return to the later books, just as I might return to *Manolito Gafotas*, but for now I'm moving on to other reading.
 
@@ -108,7 +108,7 @@ Not smoothly. Sometimes getting the words out took a while. I occasionally asked
 
 I jokingly borrowed *español mocho* from *Cajas de cartón* to describe how it feels. Speaking is unusual and comes in spurts. It's not as though Spanish has suddenly started pouring out spontaneously.
 
-A later lesson felt rough, too, but we talked about *La sociedad del cansancio*, meritocracy, *The Tyranny of Merit*, toxic positivity, his Camino de Santiago, and a little chess. Around fifteen or twenty minutes in, I looked at the clock and wondered how I was going to keep this going. Then I stopped paying attention to the clock, and suddenly the lesson was over.
+A later lesson felt rough, too, but we talked about [*La sociedad del cansancio*][sociedad-cansancio-book], meritocracy, [*The Tyranny of Merit*][tyranny-of-merit], toxic positivity, his Camino de Santiago, and a little chess. Around fifteen or twenty minutes in, I looked at the clock and wondered how I was going to keep this going. Then I stopped paying attention to the clock, and suddenly the lesson was over.
 
 I think I made my points well enough. Thankfully, he wasn't in a rush. It was an enriching and enjoyable conversation, even while speaking itself remained difficult.
 
@@ -196,7 +196,7 @@ I shared something about Mexico with a friend that I'd learned from [an advanced
 
 What struck me afterward was that I'd obtained genuine information in another language, digested it, and been able to wield it myself.
 
-Another example started with Andrés and Agustina discussing whether we're a society of complainers. Andrés mentioned *La sociedad del cansancio*, which sounded interesting. I searched YouTube and found [a discussion intended for fluent Spanish speakers][sociedad-cansancio].
+Another example started with Andrés and Agustina discussing whether we're a society of complainers. Andrés mentioned [*La sociedad del cansancio*][sociedad-cansancio-book], which sounded interesting. I searched YouTube and found [a discussion intended for fluent Spanish speakers][sociedad-cansancio].
 
 I could hear the strong Rioplatense accent and the rapid speech, but I could follow it very well. Knowing the subject beforehand helped immensely. It was great to go from learner content into general-audience content and get something useful out of both.
 
@@ -256,39 +256,6 @@ Tiny accretions on the way to acquiring this new sense.
 
 Seven hundred hours is a lot. And I'm excited to keep going.
 
----
-
-## Links
-
-### Dreaming Spanish
-
-- [Andrés and Pablo: jobs in the ChatGPT era][ai-jobs] — the exact episode I abandoned at 400 hours and finished during this stretch. Also: [AI for language learning][ai-language-learning].
-- [Andrea's video about Mexico][andrea-mexico] — where I learned something I later shared with a friend.
-- [Lorena: going to the dentist][lorena-dentist] — rated 78 when I watched it.
-- [Sandra's riddles][sandra-riddles].
-- [Marce's college story][marce-college] — the storytelling example discussed above.
-- [Pablo and Agustina: understanding Catalan][catalan].
-
-### YouTube
-
-- [Two Spaniards discussing learning Spanish][spanish-interview] and [another interview between learning-channel hosts][learning-channel-interview].
-- [A Mexican programmer discussing salary and expenses][programmer].
-- [The nutritionist's general-audience video][nutritionist] — another example of fast speech I could follow well.
-- [Finding play in adult life][adult-play].
-- [Español con Juan][juan] — the nearly thirty-minute video I found entirely understandable.
-- [A discussion of La sociedad del cansancio][sociedad-cansancio].
-- [An interview with Faustino Oro][faustino-oro].
-- [Spanish riddles and wordplay][riddles].
-- [Colloquial Spanish explained in Spanish][colloquialisms].
-- [Los Tigres del Norte: Tiny Desk concert][tigres-tiny-desk].
-- [Javier Gómez-Serrano: AI and mathematics][ai-mathematics].
-
-### Earlier posts and background
-
-- [*Cajas de cartón* on Amazon][cajas-de-carton].
-- My [400-hour post][400-hours] and [650-hour post][650-hours].
-- [Francisco Jiménez's biography][jimenez-biography] and [the bilingual history behind his writing][cajas-history].
-- [Javier Gómez-Serrano's Brown University page][gomez-serrano].
 
 [650-hours]: https://hoursinspanish.com/hours/650-hours/
 [400-hours]: https://hoursinspanish.com/hours/400-hours/
@@ -319,8 +286,12 @@ Seven hundred hours is a lot. And I'm excited to keep going.
 [tigres-tiny-desk]: https://www.youtube.com/watch?v=ZTcqu224vHw
 [nutritionist]: https://youtu.be/WfZWXylxs6A
 [el-narco]: https://www.amazon.com/dp/1608194019
+[tyranny-of-merit]: https://www.amazon.com/dp/0374289980
+[sociedad-cansancio-book]: https://www.amazon.com/dp/8425428688
 
-[^vocabulary-size]: [Brysbaert and colleagues (2016)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01116/full) estimate that an average 20-year-old native English speaker recognizes about 42,000 words, counting forms like "walk," "walks," and "walked" as one word. They put the number people can use themselves at roughly half that or less, about 21,000 or fewer, though they didn't measure that directly in this study. Recognizing a word can mean little more than knowing it exists. These numbers vary with age, exposure, and how words are counted, and aren't targets for fluency in Spanish.
+[^jimenez-background]: See [Francisco Jiménez's biography][jimenez-biography] and [the bilingual history behind his writing][cajas-history].
+
+[^vocabulary-size]: [Brysbaert and colleagues (2016)](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2016.01116/full) estimate that an average 20-year-old native English speaker recognizes about 42,000 words, counting forms like *walk*, *walks*, and *walked* as one word. That estimate comes from asking people which words they recognize, rather than testing whether they can explain or use each one. So the total can include words that look familiar even when their meanings aren't clear. The authors suggest that active vocabulary, or the words people can use themselves, is roughly half as large or smaller, about 21,000 words or fewer, but their experiment didn't measure that directly.
 
 [^conversation-prompt]: This is the prompt I use to guide my Spanish conversation practice with ChatGPT.
 
