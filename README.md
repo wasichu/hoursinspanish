@@ -18,7 +18,8 @@ Each post documents what’s improving, what’s still difficult, and how compre
 
 ## Local development
 
-Install [mise](https://mise.jdx.dev/) (on macOS: `brew install mise`). After
+Install [mise](https://mise.jdx.dev/) and [Just](https://just.systems/)
+(on macOS: `brew install mise just`). After
 cloning, trust the repo configuration and install the pinned Hugo version:
 
     mise trust
@@ -33,9 +34,25 @@ automatically.
 
 Run:
 
-    mise exec -- hugo server -D
+    just server
 
 Then open http://localhost:1313
+
+Create a new draft hours post using the hours template:
+
+    just new-hours 700
+
+This creates `content/hours/700-hours.md`.
+
+Create a compartir post using the compartir template:
+
+    just new-compartir my-post-title
+
+This creates `content/compartir/my-post-title.md`. The compartir template sets
+`draft: false` by default.
+
+All recipes run Hugo through mise.
+Run `just --list` to see the available commands.
 
 The Hugo version is pinned in `mise.toml`. Keep Cloudflare Pages'
 `HUGO_VERSION` environment variable aligned with this version for production
