@@ -84,7 +84,7 @@ Most of them weren't very useful to me. There was too much setup and not enough 
 
 So I decided to make something I would actually want to read.
 
-This blog is meant to be a straightforward record of what the process actually feels like over time.
+This blog is meant to be a straightforward record of what the process feels like over time.
 
 At a minimum, it's something I can look back on. But I also hope it ends up being useful to someone else working through their own language acquisition journey.
 

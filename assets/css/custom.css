@@ -86,6 +86,19 @@
   margin-bottom: 0;
 }
 
+.home-container li:has(.home-link-label) {
+  margin-bottom: 0.65rem;
+}
+
+.home-link-label {
+  font-weight: 600;
+}
+
+.home-link-description {
+  font-size: 0.95em;
+  color: var(--text-secondary);
+}
+
 .post-content-main ul,
 .post-content-main ol {
   padding-left: 1.35em;
