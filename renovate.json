@@ -1,0 +1,34 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:recommended", "helpers:pinGitHubActionDigests"],
+  "timezone": "America/Chicago",
+  "schedule": ["* 0-6 * * 1"],
+  "prConcurrentLimit": 4,
+  "automerge": false,
+  "enabledManagers": ["mise", "git-submodules", "github-actions", "custom.regex"],
+  "git-submodules": {
+    "enabled": true
+  },
+  "customManagers": [
+    {
+      "customType": "regex",
+      "managerFilePatterns": ["/^assets/js/comments\\.js$/"],
+      "matchStrings": ["https://unpkg\\.com/(?<depName>commentbox\\.io)@(?<currentValue>\\d+\\.\\d+\\.\\d+)/"],
+      "datasourceTemplate": "npm"
+    }
+  ],
+  "packageRules": [
+    {
+      "matchManagers": ["github-actions"],
+      "groupName": "GitHub Actions"
+    },
+    {
+      "matchManagers": ["mise"],
+      "prBodyNotes": ["If this updates Hugo, also align Cloudflare Pages' HUGO_VERSION environment variable for production and preview builds with mise.toml."]
+    },
+    {
+      "matchManagers": ["git-submodules"],
+      "prBodyNotes": ["Review the site's layouts and CSS overrides against the updated Mana theme, then inspect a Cloudflare preview before merging."]
+    }
+  ]
+}

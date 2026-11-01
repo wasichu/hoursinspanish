@@ -69,6 +69,24 @@ thread, ignoring query parameters and existing anchors. Localhost previews have
 separate threads from the live site. Colors match the site theme at page load.
 If loading fails, readers see an unavailable message with a retry button.
 
+## Dependency updates and CI
+
+Renovate checks Hugo in `mise.toml`, the Mana theme submodule, the pinned
+CommentBox script, and GitHub Actions on Monday mornings before 7 AM Chicago
+time. It opens pull requests for review; updates are not merged automatically.
+It ignores the theme's internal package files because the theme is consumed as
+a pinned submodule, not built with npm in this repository.
+
+Merge `renovate.json` to configure the existing Renovate installation. The bot's
+Dependency Dashboard shows pending updates. If this repository is not selected
+in the [Renovate GitHub app](https://github.com/apps/renovate), enable it there.
+
+The CI workflow builds production content and a second version including drafts
+and future posts on pull requests and pushes to `main`. Both builds use mise's
+pinned Hugo version and fail on Hugo warnings. Theme changes also need a visual
+preview check. When merging a Hugo update, keep Cloudflare Pages' `HUGO_VERSION`
+environment variable aligned for production and preview builds.
+
 ## Git hooks
 
 This repo uses a versioned pre-commit hook in `scripts/git-hooks/`.

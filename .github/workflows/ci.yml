@@ -1,0 +1,35 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Build Hugo site
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out site and theme
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+        with:
+          submodules: recursive
+          persist-credentials: false
+
+      - name: Install pinned tools
+        uses: jdx/mise-action@6612f0ef07ed2a736cd1e00a94a065522dd41195 # v5
+
+      - name: Build production site
+        run: mise exec -- hugo --environment production --panicOnWarning --destination "$RUNNER_TEMP/site-production"
+
+      - name: Build draft and future posts
+        run: mise exec -- hugo --environment production --buildDrafts --buildFuture --panicOnWarning --destination "$RUNNER_TEMP/site-preview"
