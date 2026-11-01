@@ -86,6 +86,38 @@
   margin-bottom: 0;
 }
 
+.home-overview {
+  display: grid;
+  gap: 1.5rem;
+}
+
+.home-overview-group {
+  min-width: 0;
+}
+
+.home-overview .home-overview-group h2 {
+  margin-top: 0;
+  margin-bottom: 1rem;
+}
+
+.home-overview .home-overview-group ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.home-overview-group + .home-overview-group {
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border-color);
+}
+
+.home-container .about-content-full hr {
+  height: 0;
+  border: 0;
+  border-top: 1px solid var(--border-color);
+  background: none;
+  box-shadow: none;
+}
+
 .home-container li:has(.home-link-label) {
   margin-bottom: 0.65rem;
 }
@@ -95,7 +127,10 @@
 }
 
 .home-link-description {
-  font-size: 0.95em;
+  font-family: var(--font-mono);
+  font-size: 0.88em;
+  font-weight: 400;
+  letter-spacing: -0.025em;
   color: var(--text-secondary);
 }
 
